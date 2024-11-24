@@ -99,7 +99,7 @@ def ancestorGetter(df: pd.DataFrame) -> pd.DataFrame:
             for i in gos:
                 if i in ancestor.index:
                     lst.extend(
-                        ancestor.loc[i, :].tolist())  # TODO:Change into extend(l = l + ancestor.loc[i, :].tolist())
+                        ancestor.loc[i, :].tolist())
                 lst.append(i)
             lst = list(set(lst))
             if np.nan in lst:

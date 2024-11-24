@@ -139,7 +139,7 @@ def aaindex4MutTm(df: pd.DataFrame, reflection_cache: str) -> pd.DataFrame:
     return result
 
 
-def group4MutTm(df: pd.DataFrame, reflection_cache: str) -> pd.DataFrame:  # TODO: need to check
+def group4MutTm(df: pd.DataFrame, reflection_cache: str) -> pd.DataFrame:
     print("-获取[group特征]", end=".....")
     if os.path.exists(f"{reflection_cache}/group.npy") or sys.platform == "linux":
         print("该数据集已经经过处理，直接使用缓存文件")

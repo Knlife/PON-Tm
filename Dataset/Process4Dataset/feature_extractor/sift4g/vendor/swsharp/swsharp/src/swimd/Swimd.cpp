@@ -217,7 +217,6 @@ static int searchDatabaseSW_(unsigned char query[], int queryLength,
     // For each column
     while (numEndedDbSeqs < dbLength) {
         // -------------------- CALCULATE QUERY PROFILE ------------------------- //
-        // TODO: Rognes uses pshufb here, I don't know how/why?
         __mxxxi P[alphabetLength];
         typename SIMD::type profileRow[SIMD::numSeqs] __attribute__((aligned(16)));
         for (unsigned char letter = 0; letter < alphabetLength; letter++) {
@@ -539,7 +538,6 @@ static int searchDatabase_(unsigned char query[], int queryLength,
             }
         }
 
-    // TODO: If not saturated arithmetic check if inital values of H (-gapOpen - i * gapExt) cause overflow
     // ------------------------------------------------------------------ //
 
 
@@ -603,7 +601,6 @@ static int searchDatabase_(unsigned char query[], int queryLength,
     // For each column
     while (numEndedDbSeqs < dbLength) {
         // -------------------- CALCULATE QUERY PROFILE ------------------------- //
-        // TODO: Rognes uses pshufb here, I don't know how/why?
         __mxxxi P[alphabetLength];
         typename SIMD::type profileRow[SIMD::numSeqs] __attribute__((aligned(16)));
         for (unsigned char letter = 0; letter < alphabetLength; letter++) {
@@ -854,7 +851,7 @@ static int searchDatabase(unsigned char query[], int queryLength,
                      gapOpen, gapExt, scoreMatrix, alphabetLength, scores_,
                      calculated, overflowMethod);
                 if (resultCode != 0)
-                    break; // TODO: this does not make much sense because of buckets, improve it.
+                    break;
             }
         }
     }

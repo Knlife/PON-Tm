@@ -41,7 +41,7 @@ def objective(trial, optuna_train_dataset, optuna_test_dataset, optuna_model, mo
         optimizer = optim.Adam(model.parameters(),
                                **optim_params,
                                betas=(0.9, 0.999),
-                               eps=1e-04)  # TODO:Change 1e-8 into 1e-4
+                               eps=1e-04)
     elif optimizer_name == "RMSprop":
         optimizer = optim.RMSprop(model.parameters(),
                                   **optim_params,
