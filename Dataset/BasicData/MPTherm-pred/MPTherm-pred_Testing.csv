@@ -1,0 +1,95 @@
+Protein name,UniProt_ID,Mutation,Pdb id:chain_mutation,Topology,Function,Location based on secondary structure and solvent accessibility,PubMed Ids,ΔTm,MPTherm database accession number,Dataset type,10-fold group-wise CV Test*
+Riboflavin transporter RibU,Q9X1G6,N123A,5kc0:A_N123A,Membrane,Transporters and others,-,27312125,-23.0,MPTM_4775,Test,-
+Ryanodine receptor 2,Q92736,H29D,4jkq:A_H29D,Aqueous,-,Coil,26405799,-0.3,MPTM_2222,Test,-
+Ryanodine receptor 2,Q92736,G230C,4jkq:A_G230C,Aqueous,-,Coil,23746327,-2.3,MPTM_222,Test,-
+Outer membrane protein X,Q8D0Z7,W79Y,3qra:A_W67Y,Aqueous,-,Exposed (helix and strand),31844019,-7.0,MPTM_7054,Test,-
+Outer membrane protein X,Q8D0Z7,W79F,3qra:A_W67F,Aqueous,-,Exposed (helix and strand),31844019,-4.0,MPTM_7085,Test,-
+Outer membrane protein X,Q8D0Z7,W79A,3qra:A_W67A,Aqueous,-,Exposed (helix and strand),31844019,-8.0,MPTM_7057,Test,-
+Sodium channel protein type 5 subunit alpha,Q14524,Y1795C,4ovn:F_Y1795C,Aqueous,-,Exposed (helix and strand),29540853,0.23,MPTM_6254,Test,-
+Sodium channel protein type 5 subunit alpha,Q14524,V1861I,4ovn:F_V1861I,Aqueous,-,Exposed (helix and strand),29540853,-4.11,MPTM_6259,Test,-
+Sodium channel protein type 5 subunit alpha,Q14524,Q1832E,4ovn:F_Q1832E,Aqueous,-,Exposed (helix and strand),29540853,-0.75,MPTM_6256,Test,-
+Sodium channel protein type 5 subunit alpha,Q14524,K1872N,4ovn:F_K1872N,Aqueous,-,Exposed (helix and strand),29540853,-3.12,MPTM_6260,Test,-
+Protein patched homolog 1,Q13635,A246M,6e1h:A_A246M,Aqueous,-,Coil,31548691,0.3,MPTM_6195,Test,-
+ATP-binding cassette sub-family C member 8,Q09428,K889T,6c3o:E_K889T,Aqueous,-,Coil,28346775,-4.2,MPTM_285; MPTM_289,Test,-
+Dipeptide and tripeptide permease A,P77304,Y71A,6gs1:A_Y71A,Membrane,Transporters and others,-,30644743,-1.0,MPTM_5852,Test,-
+Dipeptide and tripeptide permease A,P77304,Y38A,6gs1:A_Y38A,Membrane,Transporters and others,-,30644743,0.0,MPTM_5851,Test,-
+Dipeptide and tripeptide permease A,P77304,N160A,6gs1:A_N160A,Membrane,Transporters and others,-,30644743,-3.0,MPTM_5854,Test,-
+Dipeptide and tripeptide permease A,P77304,K130A,6gs1:A_K130A,Membrane,Transporters and others,-,30644743,3.0,MPTM_5853,Test,-
+Dipeptide and tripeptide permease A,P77304,I399A,6gs1:A_I399A,Membrane,Transporters and others,-,30644743,4.0,MPTM_5855,Test,-
+Spike glycoprotein,P59594,N937A,6crv:A_N937A,Aqueous,-,Buried (helix and strand),24519901,-13.5,MPTM_4654,Test,-
+H+ and Cl- exchange transporter 5,P51795,Y617A,2j9l:A_Y617A,Aqueous,-,Coil,21173145,-3.01,MPTM_6363,Test,-
+Presenilin-1,P49768,L226F,5a63:B_L226F,Membrane,Transporters and others,-,29269939,8.7,MPTM_3369,Test,-
+Melatonin receptor type 1B,P49286,F192A,6me7:A_F192A,Aqueous,-,Exposed (helix and strand),31019305,-6.5,MPTM_4515,Test,-
+Melatonin receptor type 1A,P48039,H99L,6me2:A_H99L,Aqueous,-,Exposed (helix and strand),31019306,-6.8,MPTM_4568; MPTM_4590,Test,-
+Pyrophosphate-energized vacuolar membrane proton pump,P21616,L223A,4a01:A_L223A,Aqueous,-,Buried (helix and strand),16018964,-6.3,MPTM_636,Test,-
+Pyrophosphate-energized vacuolar membrane proton pump,P21616,I227A,4a01:A_I227A,Aqueous,-,Buried (helix and strand),16018964,-5.8,MPTM_640,Test,-
+Pyrophosphate-energized vacuolar membrane proton pump,P21616,H716A,4a01:A_H716A,Aqueous,-,Buried (helix and strand),14871497,0.2,MPTM_673,Test,-
+Pyrophosphate-energized vacuolar membrane proton pump,P21616,G222A,4a01:A_G222A,Aqueous,-,Buried (helix and strand),16018964,-0.2,MPTM_635,Test,-
+Pyrophosphate-energized vacuolar membrane proton pump,P21616,G221A,4a01:A_G221A,Aqueous,-,Buried (helix and strand),16018964,-0.8,MPTM_634,Test,-
+Pyrophosphate-energized vacuolar membrane proton pump,P21616,F224A,4a01:A_F224A,Aqueous,-,Buried (helix and strand),16018964,-1.3,MPTM_637,Test,-
+Pyrophosphate-energized vacuolar membrane proton pump,P21616,A226S,4a01:A_A226S,Aqueous,-,Buried (helix and strand),16018964,-2.6,MPTM_639,Test,-
+Cannabinoid receptor 1,P21554,T210I,6n4b:R_T210I,Membrane,Receptors,-,23408552,-6.2,MPTM_5039,Test,-
+Cannabinoid receptor 1,P21554,T210A,6n4b:R_T210A,Membrane,Receptors,-,23408552,7.4,MPTM_5045,Test,-
+Cannabinoid receptor 1,P21554,L207A,6n4b:R_L207A,Membrane,Receptors,-,23408552,-7.1,MPTM_5040,Test,-
+Neurotensin receptor type 1,P20789,V57I,4xes:A_V57I,Aqueous,-,Coil,22665811,0.2,MPTM_1754,Test,-
+Neurotensin receptor type 1,P20789,N58R,4xes:A_N58R,Aqueous,-,Coil,22665811,-0.1,MPTM_1771,Test,-
+Ryanodine receptor 1,P11716,R45C,4i6i:A_R45C,Aqueous,-,Coil,23422674,-6.8,MPTM_447,Test,-
+Ryanodine receptor 1,P11716,R2939S,5gky:A_R2939S,Aqueous,-,Coil,22705209,-5.8,MPTM_467,Test,-
+Ryanodine receptor 1,P11716,R1076W,4p9j:C_R1076W,Aqueous,-,Coil,25370123,-3.0,MPTM_471,Test,-
+Ryanodine receptor 1,P11716,N760D,5gky:A_N760D,Aqueous,-,Coil,26245150,-2.5,MPTM_486,Test,-
+Ryanodine receptor 1,P11716,L2867G,5gky:A_L2867G,Aqueous,-,Coil,22705209,-12.73,MPTM_465,Test,-
+Ryanodine receptor 1,P11716,L14R,4i7i:A_L14R,Aqueous,-,Coil,23422674,-5.1,MPTM_449,Test,-
+Ryanodine receptor 1,P11716,G216E,2xoa:A_G216E,Aqueous,-,Coil,23422674,-4.4,MPTM_450,Test,-
+Ryanodine receptor 1,P11716,D709N,5gky:A_D709N,Aqueous,-,Coil,26245150,-1.0,MPTM_485,Test,-
+Ryanodine receptor 1,P11716,D61N,4i3n:A_D61N,Aqueous,-,Coil,23422674,-0.4,MPTM_453,Test,-
+Outer membrane protein X,P0A917,R73N,1qj8:A_R50N,Aqueous,-,Exposed (helix and strand),31374213,-3.79,MPTM_5997,Test,-
+Outer membrane protein X,P0A917,K82N,1qj8:A_K59N,Aqueous,-,Exposed (helix and strand),31374213,-4.07,MPTM_5999,Test,-
+Outer membrane protein X,P0A917,K71N,1qj8:A_K48N,Aqueous,-,Exposed (helix and strand),31374213,3.81,MPTM_5996,Test,-
+Outer membrane protein X,P0A917,K122N,1qj8:A_K99N,Aqueous,-,Exposed (helix and strand),31374213,0.24,MPTM_6003,Test,-
+Outer membrane protein X,P0A917,K112N,1qj8:A_K89N,Aqueous,-,Exposed (helix and strand),31374213,-2.56,MPTM_6001,Test,-
+Outer membrane protein X,P0A917,E54N,1qj8:A_E31N,Aqueous,-,Buried (helix and strand),31374213,-19.55,MPTM_5983,Test,-
+Outer membrane protein X,P0A917,E117N,1qj8:A_E94N,Aqueous,-,Exposed (helix and strand),31374213,-4.4,MPTM_6002,Test,-
+Outer membrane protein X,P0A917,D127N,1qj8:A_D104N,Aqueous,-,Exposed (helix and strand),31374213,-2.6,MPTM_6005,Test,-
+Outer membrane protein X,P0A917,D124N,1qj8:A_D101N,Aqueous,-,Exposed (helix and strand),31374213,-3.33,MPTM_6004,Test,-
+Rhomboid protease GlpG,P09391,T140A,3b45:A_T140A,Aqueous,-,Buried (helix and strand),22797666,-9.6,MPTM_3913,Test,-
+Rhomboid protease GlpG,P09391,S269A,5f5g:A_S269A,Aqueous,-,Buried (helix and strand),22797666,-2.6,MPTM_4026,Test,-
+Rhomboid protease GlpG,P09391,S221A,5f5g:A_S221A,Aqueous,-,Buried (helix and strand),22797666,-1.9,MPTM_3999,Test,-
+Rhomboid protease GlpG,P09391,M111A,5f5g:A_M111A,Aqueous,-,Buried (helix and strand),22797666,-4.8,MPTM_3895,Test,-
+Rhomboid protease GlpG,P09391,G215V,5f5g:A_G215V,Aqueous,-,Buried (helix and strand),22797666,-8.9,MPTM_3995,Test,-
+Muscarinic acetylcholine receptor M2,P08172,S110R,4mqs:A_S110R,Membrane,Receptors,-,28644022,5.0,MPTM_2179,Test,-
+Outer membrane porin C,P06996,R95S,2j1n:A_R74S,Membrane,Transporters and others,-,20932017,-5.26,MPTM_380,Test,-
+Outer membrane porin C,P06996,R95G,2j1n:A_R74G,Membrane,Transporters and others,-,20932017,-6.19,MPTM_382,Test,-
+Outer membrane porin C,P06996,R95C,2j1n:A_R74C,Membrane,Transporters and others,-,20932017,-2.35,MPTM_379,Test,-
+Outer membrane porin C,P06996,R58H,2j1n:A_R37H,Membrane,Transporters and others,-,20932017,0.31,MPTM_378,Test,-
+Band 3 anion transport protein,P02730,P327R,1hyn:P_P327R,Aqueous,-,Coil,16411779,-4.7,MPTM_818,Test,-
+Free fatty acid receptor 1,O14842,Y202F,5tzr:A_Y202F,Membrane,Receptors,-,25068810,7.2,MPTM_2024,Test,-
+Free fatty acid receptor 1,O14842,V64A,5tzr:A_V64A,Membrane,Receptors,-,25068810,2.3,MPTM_2016,Test,-
+Free fatty acid receptor 1,O14842,V225A,5tzr:A_V2225A,Membrane,Receptors,-,25068810,2.7,MPTM_2025,Test,-
+Free fatty acid receptor 1,O14842,T31A,5tzr:A_T31A,Membrane,Receptors,-,25068810,2.8,MPTM_2014,Test,-
+Free fatty acid receptor 1,O14842,L42A,5tzr:A_L42A,Membrane,Receptors,-,25068810,4.3,MPTM_2015,Test,-
+Free fatty acid receptor 1,O14842,G265A,5tzr:A_G2265A,Membrane,Receptors,-,25068810,3.3,MPTM_2026,Test,-
+Free fatty acid receptor 1,O14842,G103A,5tzr:A_G103A,Membrane,Receptors,-,25068810,5.7,MPTM_2018,Test,-
+Free fatty acid receptor 1,O14842,F88A,5tzr:A_F88A,Membrane,Receptors,-,25068810,8.3,MPTM_2017,Test,-
+Free fatty acid receptor 1,O14842,E145A,5tzr:A_E145A,Membrane,Receptors,-,25068810,4.1,MPTM_2021,Test,-
+Free fatty acid receptor 1,O14842,A199V,5tzr:A_A199V,Membrane,Receptors,-,25068810,2.1,MPTM_2022,Test,-
+Receptor-type tyrosine-protein phosphatase T,O14522,Q965K,2ooq:A_Q987K,Aqueous,-,Coil,22389709,-1.0,MPTM_192,Test,-
+Receptor-type tyrosine-protein phosphatase T,O14522,D905G,2ooq:A_D927G,Aqueous,-,Coil,22389709,-3.0,MPTM_194,Test,-
+Putative ferric reductase,K9WT99,R256H,5o0t:A_R256H,Membrane,Transporters and others,-,28607049,0.1,MPTM_2740,Test,-
+Uncharacterized protein,G2QNH0,Y298F,6gci:A_Y298F,Membrane,Transporters and others,-,30611538,-0.6,MPTM_3434,Test,-
+Uncharacterized protein,G2QNH0,Y204F,6gci:A_Y204F,Membrane,Transporters and others,-,30611538,-6.4,MPTM_3433,Test,-
+Uncharacterized protein,G2QNH0,Y196F,6gci:A_Y196F,Membrane,Transporters and others,-,30611538,-10.55,MPTM_3441; MPTM_3452,Test,-
+Uncharacterized protein,G2QNH0,Y196A,6gci:A_Y196A,Membrane,Transporters and others,-,30611538,-11.5,MPTM_3440; MPTM_3451,Test,-
+Uncharacterized protein,G2QNH0,S238A,6gci:A_S238A,Membrane,Transporters and others,-,30611538,-2.5,MPTM_3454; MPTM_3443,Test,-
+Uncharacterized protein,G2QNH0,R88A,6gci:A_R88A,Membrane,Transporters and others,-,30611538,-10.15,MPTM_3447; MPTM_3436,Test,-
+Uncharacterized protein,G2QNH0,R287A,6gci:A_R287A,Membrane,Transporters and others,-,30611538,-1.25,MPTM_3444; MPTM_3455,Test,-
+Uncharacterized protein,G2QNH0,R197A,6gci:A_R197A,Membrane,Transporters and others,-,30611538,-8.15,MPTM_3453; MPTM_3442,Test,-
+Uncharacterized protein,G2QNH0,R100A,6gci:A_R100A,Membrane,Transporters and others,-,30611538,-3.4,MPTM_3432,Test,-
+Uncharacterized protein,G2QNH0,Q302K,6gci:A_Q302K,Membrane,Transporters and others,-,26453935,-1.0,MPTM_3376,Test,-
+Uncharacterized protein,G2QNH0,N96A,6gci:A_N96A,Membrane,Transporters and others,-,30611538,-7.3,MPTM_3437;MPTM_3448,Test,-
+Uncharacterized protein,G2QNH0,K30A,6gci:A_K30A,Membrane,Transporters and others,-,30611538,-7.2,MPTM_3435; MPTM_3446,Test,-
+Uncharacterized protein,G2QNH0,K208A,6gci:A_K208A,Membrane,Transporters and others,-,26453935,1.0,MPTM_3379,Test,-
+Uncharacterized protein,G2QNH0,K104A,6gci:A_K104A,Membrane,Transporters and others,-,26453935,2.0,MPTM_3378,Test,-
+Uncharacterized protein,G2QNH0,I193A,6gci:A_I193A,Membrane,Transporters and others,-,30611538,-14.4,MPTM_3439; MPTM_3450,Test,-
+Uncharacterized protein,G2QNH0,G192A,6gci:A_G192A,Membrane,Transporters and others,-,30611538,-7.5,MPTM_3449; MPTM_3438,Test,-
+Uncharacterized protein,G2QNH0,C65A,6gci:A_C65A,Membrane,Transporters and others,-,26453935,-2.5,MPTM_3375,Test,-
+Ryanodine receptor 2,E9Q401,V186M,3im6:A_V186M,Aqueous,-,Coil,19913485,-0.4,MPTM_230,Test, -

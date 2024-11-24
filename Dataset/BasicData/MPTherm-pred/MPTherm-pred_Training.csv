@@ -1,0 +1,836 @@
+Protein name,UniProt_ID,Mutation,Pdb id:chain_mutation,Topology,Function,Location based on secondary structure and solvent accessibility,PubMed Ids,ΔTm,MPTherm database accession number,Dataset type,10-fold group-wise CV Test*
+Chloride pumping rhodopsin,W8VZW3,Y83A,5b2n:A_Y83A,Aqueous,-,Buried (helix and strand),27554809,-2.0,MPTM_6299,Training/CV,Fold 8
+Chloride pumping rhodopsin,W8VZW3,W72A,5b2n:A_W72A,Aqueous,-,Buried (helix and strand),27554809,-3.0,MPTM_6298,Training/CV,Fold 8
+Chloride pumping rhodopsin,W8VZW3,F15A,5b2n:A_F15A,Aqueous,-,Buried (helix and strand),27554809,0.0,MPTM_6297,Training/CV,Fold 8
+Riboflavin transporter RibU,Q9X1G6,Y130G,5kc0:A_Y130G,Aqueous,-,Exposed (helix and strand),27312125,-9.2,MPTM_4777,Training/CV,Fold 8
+Riboflavin transporter RibU,Q9X1G6,Y130F,5kc0:A_Y130F,Aqueous,-,Exposed (helix and strand),27312125,-3.5,MPTM_4776,Training/CV,Fold 8
+Envelope glycoprotein gp160,Q994K2,Y639P,3wfv:A_Y602P,Aqueous,-,Exposed (helix and strand),24074570,-35.0,MPTM_4754,Training/CV,Fold 1
+Envelope glycoprotein gp160,Q994K2,Y639H,3wfv:A_Y602H,Aqueous,-,Exposed (helix and strand),24074570,0.0,MPTM_4743,Training/CV,Fold 1
+Envelope glycoprotein gp160,Q994K2,V638P,3wfv:A_V601P,Aqueous,-,Buried (helix and strand),24074570,-33.0,MPTM_4753,Training/CV,Fold 6
+Envelope glycoprotein gp160,Q994K2,V638I,3wfv:A_V601I,Aqueous,-,Buried (helix and strand),24074570,0.0,MPTM_4742,Training/CV,Fold 6
+Envelope glycoprotein gp160,Q994K2,V576I,3wfv:A_V580I,Aqueous,-,Exposed (helix and strand),24074570,0.0,MPTM_4736,Training/CV,Fold 1
+Envelope glycoprotein gp160,Q994K2,T637P,3wfv:A_T600P,Aqueous,-,Exposed (helix and strand),24074570,-33.0,MPTM_4752,Training/CV,Fold 1
+Envelope glycoprotein gp160,Q994K2,T637L,3wfv:A_T600L,Aqueous,-,Exposed (helix and strand),24074570,-1.0,MPTM_4741,Training/CV,Fold 1
+Envelope glycoprotein gp160,Q994K2,T574A,3wfv:A_T578A,Aqueous,-,Exposed (helix and strand),24074570,0.0,MPTM_4735,Training/CV,Fold 1
+Envelope glycoprotein gp160,Q994K2,S632N,3wfv:A_S595N,Aqueous,-,Exposed (helix and strand),24074570,0.0,MPTM_4739,Training/CV,Fold 1
+Envelope glycoprotein gp160,Q994K2,S549N,3wfv:A_S553N,Aqueous,-,Buried (helix and strand),24074570,0.0,MPTM_4733,Training/CV,Fold 6
+Envelope glycoprotein gp160,Q994K2,R651K,3wfv:A_R614K,Aqueous,-,Exposed (helix and strand),24074570,0.0,MPTM_4747,Training/CV,Fold 1
+Envelope glycoprotein gp160,Q994K2,R640S,3wfv:A_R603S,Aqueous,-,Exposed (helix and strand),24074570,-2.0,MPTM_4744,Training/CV,Fold 1
+Envelope glycoprotein gp160,Q994K2,R640P,3wfv:A_R603P,Aqueous,-,Exposed (helix and strand),24074570,-33.0,MPTM_4755,Training/CV,Fold 1
+Envelope glycoprotein gp160,Q994K2,Q626E,3wfv:A_Q589E,Aqueous,-,Exposed (helix and strand),24074570,-1.0,MPTM_4737,Training/CV,Fold 1
+Envelope glycoprotein gp160,Q994K2,N636S,3wfv:A_N599S,Aqueous,-,Exposed (helix and strand),24074570,0.0,MPTM_4740,Training/CV,Fold 1
+Envelope glycoprotein gp160,Q994K2,N636P,3wfv:A_N599P,Aqueous,-,Exposed (helix and strand),24074570,-33.0,MPTM_4751,Training/CV,Fold 1
+Envelope glycoprotein gp160,Q994K2,L642P,3wfv:A_L605P,Aqueous,-,Buried (helix and strand),24074570,-35.0,MPTM_4757,Training/CV,Fold 6
+Envelope glycoprotein gp160,Q994K2,L642I,3wfv:A_L605I,Aqueous,-,Buried (helix and strand),24074570,0.0,MPTM_4746,Training/CV,Fold 6
+Envelope glycoprotein gp160,Q994K2,L641P,3wfv:A_L604P,Aqueous,-,Exposed (helix and strand),24074570,-35.0,MPTM_4756,Training/CV,Fold 1
+Envelope glycoprotein gp160,Q994K2,L641A,3wfv:A_L604A,Aqueous,-,Exposed (helix and strand),24074570,-30.0,MPTM_4745,Training/CV,Fold 1
+Envelope glycoprotein gp160,Q994K2,K654Q,3wfv:A_K617Q,Aqueous,-,Exposed (helix and strand),24074570,0.0,MPTM_4748,Training/CV,Fold 1
+Envelope glycoprotein gp160,Q994K2,K629R,3wfv:A_K592R,Aqueous,-,Exposed (helix and strand),24074570,1.0,MPTM_4738,Training/CV,Fold 1
+Envelope glycoprotein gp160,Q994K2,I555P,3wfv:A_I559P,Aqueous,-,Exposed (helix and strand),24074570,-33.0,MPTM_4750,Training/CV,Fold 1
+Envelope glycoprotein gp160,Q994K2,I555G,3wfv:A_I559G,Aqueous,-,Exposed (helix and strand),24074570,0.0,MPTM_4734,Training/CV,Fold 1
+Envelope glycoprotein gp160,Q994K2,D655E,3wfv:A_D618E,Aqueous,-,Exposed (helix and strand),24074570,0.0,MPTM_4749,Training/CV,Fold 1
+Glucose import ATP-binding protein GlcV,Q97UY8,G144A,1oxu:A_G144A,Aqueous,-,Exposed (helix and strand),17980144,0.512,MPTM_2469; MPTM_2475; MPTM_2481; MPTM_2487; MPTM_2493; MPTM_2499; MPTM_2505; MPTM_2511,Training/CV,Fold 4
+Aquaporin-10,Q96PS8,N133Q,6f7h:A_N133Q,Aqueous,-,Coil,21733844,1.6,MPTM_6416,Training/CV,Fold 9
+Atlastin-1,Q8WXF7,R77A,6b9d:A_R77A,Aqueous,-,Coil,29180453,-0.9,MPTM_6379,Training/CV,Fold 5
+Atlastin-1,Q8WXF7,F151S,6b9f:A_F151S,Aqueous,-,Coil,29180453,-0.4,MPTM_6380,Training/CV,Fold 5
+Sodium channel subunit beta-4,Q8IWT1,C58A,4mz2:A_C58A,Aqueous,-,Coil,24297919,0.0,MPTM_4420,Training/CV,Fold 9
+Sodium channel subunit beta-4,Q8IWT1,C131W,4mz3:A_C131W,Aqueous,-,Buried (helix and strand),24297919,-3.9,MPTM_4421,Training/CV,Fold 9
+Sodium channel subunit beta-4,Q8IWT1,C131A,5xaw:A_C131A,Aqueous,-,Buried (helix and strand),24297919,-7.1,MPTM_4422,Training/CV,Fold 9
+Outer membrane protein X,Q8D0Z7,W186Y,3qra:A_W174Y,Membrane,Transporters and others,-,31844019,-3.0,MPTM_7055,Training/CV,Fold 7
+Outer membrane protein X,Q8D0Z7,W186F,3qra:A_W174F,Membrane,Transporters and others,-,31844019,-7.0,MPTM_7052,Training/CV,Fold 7
+Outer membrane protein X,Q8D0Z7,W186A,3qra:A_W174A,Membrane,Transporters and others,-,31844019,9.0,MPTM_7058,Training/CV,Fold 7
+Calcium-binding mitochondrial carrier protein SCaMC-1,Q6NUK1,W166A,4n5x:A_W166A,Aqueous,-,Buried (helix and strand),28350015,-17.6,MPTM_6150; MPTM_6121,Training/CV,Fold 5
+Calcium-binding mitochondrial carrier protein SCaMC-1,Q6NUK1,T170A,4n5x:A_T170A,Aqueous,-,Coil,28350015,-8.6,MPTM_6125; MPTM_6154,Training/CV,Fold 6
+Calcium-binding mitochondrial carrier protein SCaMC-1,Q6NUK1,T157A,4n5x:A_T157A,Aqueous,-,Coil,28350015,-3.1,MPTM_6141; MPTM_6112,Training/CV,Fold 6
+Calcium-binding mitochondrial carrier protein SCaMC-1,Q6NUK1,S169A,4n5x:A_S169A,Aqueous,-,Coil,28350015,-6.6,MPTM_6124; MPTM_6153,Training/CV,Fold 6
+Calcium-binding mitochondrial carrier protein SCaMC-1,Q6NUK1,R23A,4n5x:A_R23A,Aqueous,-,Coil,28350015,0.2,MPTM_6137; MPTM_6108,Training/CV,Fold 6
+Calcium-binding mitochondrial carrier protein SCaMC-1,Q6NUK1,R164A,4n5x:A_R164A,Aqueous,-,Exposed (helix and strand),28350015,-10.0,MPTM_6119; MPTM_6148,Training/CV,Fold 9
+Calcium-binding mitochondrial carrier protein SCaMC-1,Q6NUK1,R148A,4n5x:A_R148A,Aqueous,-,Buried (helix and strand),28350015,1.9,MPTM_6139; MPTM_6110,Training/CV,Fold 5
+Calcium-binding mitochondrial carrier protein SCaMC-1,Q6NUK1,K167A,4n5x:A_K167A,Aqueous,-,Exposed (helix and strand),28350015,-16.85,MPTM_6151; MPTM_6122,Training/CV,Fold 9
+Calcium-binding mitochondrial carrier protein SCaMC-1,Q6NUK1,I163A,4n5x:A_I163A,Aqueous,-,Buried (helix and strand),28350015,-1.6,MPTM_6118; MPTM_6147,Training/CV,Fold 5
+Calcium-binding mitochondrial carrier protein SCaMC-1,Q6NUK1,I162A,4n5x:A_I162A,Aqueous,-,Buried (helix and strand),28350015,-0.6,MPTM_6146; MPTM_6117,Training/CV,Fold 5
+Calcium-binding mitochondrial carrier protein SCaMC-1,Q6NUK1,I159A,4n5x:A_I159A,Aqueous,-,Buried (helix and strand),28350015,5.3,MPTM_6143; MPTM_6114,Training/CV,Fold 5
+Calcium-binding mitochondrial carrier protein SCaMC-1,Q6NUK1,H168A,4n5x:A_H168A,Aqueous,-,Exposed (helix and strand),28350015,-11.35,MPTM_6123; MPTM_6152,Training/CV,Fold 9
+Calcium-binding mitochondrial carrier protein SCaMC-1,Q6NUK1,F165A,4n5x:A_F165A,Aqueous,-,Buried (helix and strand),28350015,-2.45,MPTM_6149; MPTM_6120,Training/CV,Fold 5
+Calcium-binding mitochondrial carrier protein SCaMC-1,Q6NUK1,E88A,4n5x:A_E88A,Aqueous,-,Buried (helix and strand),28350015,2.5,MPTM_6138;MPTM_6109,Training/CV,Fold 5
+Calcium-binding mitochondrial carrier protein SCaMC-1,Q6NUK1,E161A,4n5x:A_E161A,Aqueous,-,Exposed (helix and strand),28350015,-2.45,MPTM_6145; MPTM_6116,Training/CV,Fold 9
+Calcium-binding mitochondrial carrier protein SCaMC-1,Q6NUK1,E160A,4n5x:A_E160A,Aqueous,-,Exposed (helix and strand),28350015,-7.6,MPTM_6115; MPTM_6144,Training/CV,Fold 9
+Calcium-binding mitochondrial carrier protein SCaMC-1,Q6NUK1,D176A,4n5x:A_D176A,Aqueous,-,Coil,28350015,-13.6,MPTM_6156; MPTM_6127,Training/CV,Fold 6
+Calcium-binding mitochondrial carrier protein SCaMC-1,Q6NUK1,D173A,4n5x:A_D173A,Aqueous,-,Coil,28350015,-8.6,MPTM_6126; MPTM_6155,Training/CV,Fold 6
+Calcium-binding mitochondrial carrier protein SCaMC-1,Q6NUK1,D158A,4n5x:A_D158A,Aqueous,-,Coil,28350015,-4.85,MPTM_6142; MPTM_6113,Training/CV,Fold 6
+Calcium-binding mitochondrial carrier protein SCaMC-1,Q6NUK1,D149A,4n5x:A_D149A,Aqueous,-,Exposed (helix and strand),28350015,1.15,MPTM_6140;MPTM_6111,Training/CV,Fold 9
+CAAX prenyl protease 2,Q6LZY8,N231D,4cad:C_N231D,Membrane,Transporters and others,-,24291792,0.1,MPTM_2797; MPTM_2802,Training/CV,Fold 6
+CAAX prenyl protease 2,Q6LZY8,N231A,4cad:C_N231A,Membrane,Transporters and others,-,24291792,-0.45,MPTM_2796; MPTM_2801,Training/CV,Fold 6
+CAAX prenyl protease 2,Q6LZY8,L45W,4cad:C_L45W,Membrane,Transporters and others,-,24291792,-0.7,MPTM_2798,Training/CV,Fold 6
+CAAX prenyl protease 2,Q6LZY8,L132W,4cad:C_L132W,Membrane,Transporters and others,-,24291792,-0.1,MPTM_2799,Training/CV,Fold 6
+CAAX prenyl protease 2,Q6LZY8,H227A,4cad:C_H227A,Membrane,Transporters and others,-,24291792,-0.8,MPTM_2795,Training/CV,Fold 6
+CAAX prenyl protease 2,Q6LZY8,H173A,4cad:C_H173A,Membrane,Transporters and others,-,24291792,-0.5,MPTM_2794,Training/CV,Fold 6
+CAAX prenyl protease 2,Q6LZY8,E141A,4cad:C_E141A,Membrane,Transporters and others,-,24291792,-0.1,MPTM_2793,Training/CV,Fold 6
+CAAX prenyl protease 2,Q6LZY8,E140Q,4cad:C_E140Q,Membrane,Transporters and others,-,24291792,-0.4,MPTM_2792,Training/CV,Fold 6
+CAAX prenyl protease 2,Q6LZY8,E140A,4cad:C_E140A,Membrane,Transporters and others,-,24291792,-0.7,MPTM_2791,Training/CV,Fold 6
+Dystroglycan,Q62165,V72I,5n30:A_V72I,Aqueous,-,Coil,29036200,-4.16,MPTM_3030,Training/CV,Fold 6
+Dystroglycan,Q62165,T190M,4wiq:A_T190M,Aqueous,-,Buried (helix and strand),29036200,8.6,MPTM_3032,Training/CV,Fold 7
+Dystroglycan,Q62165,D109N,5n4h:A_D109N,Aqueous,-,Exposed (helix and strand),29036200,1.06,MPTM_3031,Training/CV,Fold 7
+PupR protein,Q52209,R53D,5cos:A_R53D,Aqueous,-,Exposed (helix and strand),26313375,-5.6,MPTM_6463,Training/CV,Fold 5
+PupR protein,Q52209,Q42D,5cos:A_Q42D,Aqueous,-,Exposed (helix and strand),26313375,-9.6,MPTM_6462,Training/CV,Fold 5
+PupR protein,Q52209,M38D,5cos:A_M38D,Aqueous,-,Exposed (helix and strand),26313375,-8.6,MPTM_6461,Training/CV,Fold 5
+PupR protein,Q52209,M18D,5cos:A_M18D,Aqueous,-,Exposed (helix and strand),26313375,-16.0,MPTM_6458,Training/CV,Fold 5
+PupR protein,Q52209,L61D,5cos:A_L61D,Aqueous,-,Exposed (helix and strand),26313375,-4.5,MPTM_6465,Training/CV,Fold 5
+PupR protein,Q52209,L22D,5cos:A_L22D,Aqueous,-,Exposed (helix and strand),26313375,-10.0,MPTM_6459,Training/CV,Fold 5
+PupR protein,Q52209,F57D,5cos:A_F57D,Aqueous,-,Exposed (helix and strand),26313375,-4.9,MPTM_6464,Training/CV,Fold 5
+PupR protein,Q52209,A35D,5cos:A_A35D,Aqueous,-,Exposed (helix and strand),26313375,-9.3,MPTM_6460,Training/CV,Fold 5
+Sodium channel protein type 5 subunit alpha,Q14524,R1826H,4ovn:F_R1826H,Aqueous,-,Coil,29540853,-14.55,MPTM_6255,Training/CV,Fold 6
+Sodium channel protein type 5 subunit alpha,Q14524,D1839G,4ovn:F_D1839G,Aqueous,-,Coil,29540853,0.63,MPTM_6257,Training/CV,Fold 6
+Sodium channel protein type 5 subunit alpha,Q14524,D1790G,4ovn:F_D1790G,Aqueous,-,Coil,29540853,-6.02,MPTM_6253,Training/CV,Fold 6
+Protein patched homolog 1,Q13635,M281Q,6e1h:A_M281Q,Aqueous,-,Exposed (helix and strand),31548691,-2.0,MPTM_6194,Training/CV,Fold 4
+Stromal interaction molecule 1,Q13586,R429L,3teq:A_R429L,Aqueous,-,Exposed (helix and strand),25918394,-10.0,MPTM_6534,Training/CV,Fold 8
+Stromal interaction molecule 1,Q13586,R429C,3teq:A_R429C,Aqueous,-,Exposed (helix and strand),25918394,-10.0,MPTM_6533,Training/CV,Fold 8
+Stromal interaction molecule 1,Q13586,R429A,3teq:A_R429A,Aqueous,-,Exposed (helix and strand),25918394,-13.0,MPTM_6535,Training/CV,Fold 8
+Stromal interaction molecule 1,Q13586,N171C,2k60:A_N171C,Aqueous,-,Exposed (helix and strand),27865927,-4.6,MPTM_216,Training/CV,Fold 8
+Stromal interaction molecule 1,Q13586,N131C,2k60:A_N131C,Aqueous,-,Exposed (helix and strand),27865927,-4.5,MPTM_215,Training/CV,Fold 8
+Potassium voltage-gated channel subfamily H member 2,Q12809,Y43C,2l0w:A_Y43C,Aqueous,-,Exposed (helix and strand),23721480,-16.9,MPTM_206,Training/CV,Fold 6
+Potassium voltage-gated channel subfamily H member 2,Q12809,T65P,2l0w:A_T65P,Aqueous,-,Coil,21661061;23721480,-7.765,MPTM_209; MPTM_54,Training/CV,Fold 8
+Potassium voltage-gated channel subfamily H member 2,Q12809,R56Q,1byw:A_R56Q,Aqueous,-,Exposed (helix and strand),23721480;22396785,-2.3,MPTM_181; MPTM_207,Training/CV,Fold 6
+Potassium voltage-gated channel subfamily H member 2,Q12809,N33T,1byw:A_N33T,Aqueous,-,Exposed (helix and strand),22396785,-2.6,MPTM_183,Training/CV,Fold 6
+Potassium voltage-gated channel subfamily H member 2,Q12809,M124R,2l0w:A_M124R,Aqueous,-,Exposed (helix and strand),23721480,-12.8,MPTM_213,Training/CV,Fold 6
+Potassium voltage-gated channel subfamily H member 2,Q12809,L86R,1byw:A_L86R,Aqueous,-,Buried (helix and strand),23721480;22396785,-15.25,MPTM_177; MPTM_211,Training/CV,Fold 8
+Potassium voltage-gated channel subfamily H member 2,Q12809,K28E,1byw:A_K28E,Aqueous,-,Exposed (helix and strand),22396785,-12.1,MPTM_185,Training/CV,Fold 6
+Potassium voltage-gated channel subfamily H member 2,Q12809,I96T,2l0w:A_I96T,Aqueous,-,Buried (helix and strand),23721480,-10.3,MPTM_212,Training/CV,Fold 8
+Potassium voltage-gated channel subfamily H member 2,Q12809,I42N,2l0w:A_I42N,Aqueous,-,Exposed (helix and strand),23721480,-8.4,MPTM_205,Training/CV,Fold 6
+Potassium voltage-gated channel subfamily H member 2,Q12809,H70R,1byw:A_H70R,Aqueous,-,Coil,22396785,-8.3,MPTM_179,Training/CV,Fold 8
+Potassium voltage-gated channel subfamily H member 2,Q12809,G53R,1byw:A_G53R,Aqueous,-,Coil,22396785,-9.4,MPTM_182,Training/CV,Fold 8
+Potassium voltage-gated channel subfamily H member 2,Q12809,F29L,1byw:A_F29L,Aqueous,-,Exposed (helix and strand),23721480;22396785,-9.3,MPTM_204; MPTM_184,Training/CV,Fold 6
+Potassium voltage-gated channel subfamily H member 2,Q12809,E118A,1byw:A_E118A,Aqueous,-,Coil,22396785,-0.8,MPTM_176,Training/CV,Fold 8
+Potassium voltage-gated channel subfamily H member 2,Q12809,C66G,1byw:A_C66G,Aqueous,-,Coil,22396785,-11.4,MPTM_180,Training/CV,Fold 8
+Potassium voltage-gated channel subfamily H member 2,Q12809,C64Y,2l0w:A_C64Y,Aqueous,-,Coil,23721480,-7.8,MPTM_208,Training/CV,Fold 8
+Potassium voltage-gated channel subfamily H member 2,Q12809,A78P,1byw:A_A78P,Aqueous,-,Buried (helix and strand),23721480;22396785,-7.6,MPTM_178; MPTM_210,Training/CV,Fold 8
+Apoptosis regulator BAX,Q07813,Y164C,5w62:A_Y164C,Aqueous,-,Exposed (helix and strand),25495545,-2.0,MPTM_6453,Training/CV,Fold 10
+Apoptosis regulator BAX,Q07813,W139C,5w62:A_W139C,Aqueous,-,Buried (helix and strand),25495545,1.2,MPTM_6446,Training/CV,Fold 2
+Apoptosis regulator BAX,Q07813,V150C,5w62:A_V150C,Aqueous,-,Exposed (helix and strand),25495545,0.7,MPTM_6450,Training/CV,Fold 10
+Apoptosis regulator BAX,Q07813,T182C,5w62:A_T182C,Membrane,Transporters and others,-,25495545,2.8,MPTM_6454,Training/CV,Fold 8
+Apoptosis regulator BAX,Q07813,T140C,5w62:A_T140C,Aqueous,-,Buried (helix and strand),25495545,1.2,MPTM_6447,Training/CV,Fold 2
+Apoptosis regulator BAX,Q07813,R94C,5w62:A_R94C,Aqueous,-,Exposed (helix and strand),25495545,4.2,MPTM_6438,Training/CV,Fold 10
+Apoptosis regulator BAX,Q07813,M99C,5w62:A_M99C,Aqueous,-,Buried (helix and strand),25495545,-7.0,MPTM_6440,Training/CV,Fold 2
+Apoptosis regulator BAX,Q07813,M137C,5w62:A_M137C,Aqueous,-,Buried (helix and strand),25495545,-4.0,MPTM_6445,Training/CV,Fold 2
+Apoptosis regulator BAX,Q07813,L76C,5w62:A_L76C,Aqueous,-,Buried (helix and strand),25495545,-5.3,MPTM_6437,Training/CV,Fold 2
+Apoptosis regulator BAX,Q07813,L63C,5w62:A_L63C,Aqueous,-,Buried (helix and strand),25495545,1.5,MPTM_6434,Training/CV,Fold 2
+Apoptosis regulator BAX,Q07813,L27C,5w62:A_L27C,Aqueous,-,Buried (helix and strand),25495545,-11.7,MPTM_6431,Training/CV,Fold 2
+Apoptosis regulator BAX,Q07813,L185C,5w62:A_L185C,Membrane,Transporters and others,-,25495545,3.3,MPTM_6455,Training/CV,Fold 8
+Apoptosis regulator BAX,Q07813,L161C,5w62:A_L161C,Aqueous,-,Buried (helix and strand),25495545,-0.5,MPTM_6452,Training/CV,Fold 2
+Apoptosis regulator BAX,Q07813,L144C,5w62:A_L144C,Aqueous,-,Buried (helix and strand),25495545,-3.2,MPTM_6449,Training/CV,Fold 2
+Apoptosis regulator BAX,Q07813,L113C,5w62:A_L113C,Aqueous,-,Buried (helix and strand),25495545,-14.0,MPTM_6441,Training/CV,Fold 2
+Apoptosis regulator BAX,Q07813,I66C,5w62:A_I66C,Aqueous,-,Buried (helix and strand),25495545,-2.0,MPTM_6435,Training/CV,Fold 2
+Apoptosis regulator BAX,Q07813,I152C,5w62:A_I152C,Aqueous,-,Buried (helix and strand),25495545,-10.3,MPTM_6451,Training/CV,Fold 2
+Apoptosis regulator BAX,Q07813,G67C,5w62:A_G67C,Aqueous,-,Buried (helix and strand),25495545,-3.8,MPTM_6436,Training/CV,Fold 2
+Apoptosis regulator BAX,Q07813,F25C,5w62:A_F25C,Aqueous,-,Exposed (helix and strand),25495545,-0.2,MPTM_6430,Training/CV,Fold 10
+Apoptosis regulator BAX,Q07813,F114C,5w62:A_F114C,Aqueous,-,Buried (helix and strand),25495545,-10.0,MPTM_6442,Training/CV,Fold 2
+Apoptosis regulator BAX,Q07813,D142C,5w62:A_D142C,Aqueous,-,Exposed (helix and strand),25495545,-2.5,MPTM_6448,Training/CV,Fold 10
+Apoptosis regulator BAX,Q07813,A96C,5w62:A_A96C,Aqueous,-,Buried (helix and strand),25495545,1.2,MPTM_6439,Training/CV,Fold 2
+Apoptosis regulator BAX,Q07813,A117C,5w62:A_A117C,Aqueous,-,Buried (helix and strand),25495545,-6.3,MPTM_6443,Training/CV,Fold 2
+Fatty-acid amide hydrolase 1,P97612,K142A,3k7f:A_K142A,Aqueous,-,Buried (helix and strand),18644727,-0.5,MPTM_6776,Training/CV,Fold 5
+Undecaprenyl-diphosphatase,P60933,S27A,5oon:A_S27A,Membrane,Transporters and others,-,30180556,-1.6,MPTM_5330; MPTM_5336,Training/CV,Fold 7
+Aquaporin Z,P60844,T107P,1rc2:B_T107P,Aqueous,-,Coil,25772562,0.9,MPTM_2774,Training/CV,Fold 6
+Aquaporin Z,P60844,A27P,1rc2:B_A27P,Aqueous,-,Coil,25772562,1.3,MPTM_2773,Training/CV,Fold 6
+Arginine/agmatine antiporter,P60063,S26A,3lrb:A_S26A,Membrane,Transporters and others,-,29558430,-3.5,MPTM_2389,Training/CV,Fold 10
+Arginine/agmatine antiporter,P60063,N22A,3l1l:A_N22A,Membrane,Transporters and others,-,29558430,-9.4,MPTM_2388,Training/CV,Fold 10
+Spike glycoprotein,P59594,R965E,6crv:A_R965E,Aqueous,-,Exposed (helix and strand),24519901,-2.9,MPTM_4657,Training/CV,Fold 3
+Spike glycoprotein,P59594,R965A,6crv:A_R965A,Aqueous,-,Exposed (helix and strand),24519901,-3.9,MPTM_4656,Training/CV,Fold 3
+Spike glycoprotein,P59594,R1167E,1zv8:F_R18E,Aqueous,-,Exposed (helix and strand),24519901,-4.1,MPTM_4665,Training/CV,Fold 3
+Spike glycoprotein,P59594,R1167A,1zv8:F_R18A,Aqueous,-,Exposed (helix and strand),24519901,-3.7,MPTM_4664,Training/CV,Fold 3
+Spike glycoprotein,P59594,Q902A,6crv:A_Q902A,Aqueous,-,Exposed (helix and strand),24519901,-7.2,MPTM_4650,Training/CV,Fold 3
+Spike glycoprotein,P59594,N951A,6crv:A_N951A,Aqueous,-,Coil,24519901,-1.8,MPTM_4655,Training/CV,Fold 9
+Spike glycoprotein,P59594,L1175A,2fxp:A_L37A,Aqueous,-,Exposed (helix and strand),24519901,-30.2,MPTM_4667,Training/CV,Fold 3
+Spike glycoprotein,P59594,L1168A,2fxp:A_L30A,Aqueous,-,Exposed (helix and strand),24519901,-29.2,MPTM_4666,Training/CV,Fold 3
+Spike glycoprotein,P59594,L1148A,2fxp:A_L10A,Aqueous,-,Exposed (helix and strand),24519901,-8.0,MPTM_4660,Training/CV,Fold 3
+Spike glycoprotein,P59594,K929E,6crv:A_K929E,Aqueous,-,Exposed (helix and strand),24519901,-7.5,MPTM_4653,Training/CV,Fold 3
+Spike glycoprotein,P59594,K929A,6crv:A_K929A,Aqueous,-,Exposed (helix and strand),24519901,-7.3,MPTM_4652,Training/CV,Fold 3
+Spike glycoprotein,P59594,I1161A,2fxp:A_I23A,Aqueous,-,Exposed (helix and strand),24519901,-16.7,MPTM_4662,Training/CV,Fold 3
+Spike glycoprotein,P59594,I1151A,2fxp:A_I13A,Aqueous,-,Exposed (helix and strand),24519901,-9.8,MPTM_4661,Training/CV,Fold 3
+Spike glycoprotein,P59594,E970A,6crv:A_E970A,Aqueous,-,Exposed (helix and strand),24519901,-3.9,MPTM_4659,Training/CV,Fold 3
+Spike glycoprotein,P59594,E918A,6crv:A_E918A,Aqueous,-,Exposed (helix and strand),24519901,-4.4,MPTM_4651,Training/CV,Fold 3
+Spike glycoprotein,P59594,E1164A,2fxp:A_E26A,Aqueous,-,Exposed (helix and strand),24519901,-7.7,MPTM_4663,Training/CV,Fold 3
+Spike glycoprotein,P59594,D967A,6crv:A_D967A,Aqueous,-,Coil,24519901,-4.9,MPTM_4658,Training/CV,Fold 9
+Ephrin type-B receptor 3,P54753,A899P,3zfy:A_A899P,Aqueous,-,Exposed (helix and strand),24677421,7.2,MPTM_173,Training/CV,Fold 9
+Presenilin-1,P49768,P267S,5fn2:B_P267S,Aqueous,-,Exposed (helix and strand),17320044,5.0,MPTM_619,Training/CV,Fold 9
+Presenilin-1,P49768,P264L,5fn2:B_P264L,Aqueous,-,Coil,17320044,-2.0,MPTM_618,Training/CV,Fold 10
+Presenilin-1,P49768,M292D,6idf:B_M292D,Aqueous,-,Coil,29269939,8.2,MPTM_3371,Training/CV,Fold 10
+Presenilin-1,P49768,L424V,5a63:B_L424V,Aqueous,-,Exposed (helix and strand),29269939,9.8,MPTM_3370,Training/CV,Fold 9
+Presenilin-1,P49768,L286V,5fn2:B_L286V,Aqueous,-,Coil,17320044,-8.0,MPTM_617,Training/CV,Fold 10
+Presenilin-1,P49768,E280A,5fn2:B_E280A,Aqueous,-,Coil,17320044,-4.0,MPTM_616,Training/CV,Fold 10
+Melatonin receptor type 1B,P49286,Y308S,6me7:A_Y308S,Membrane,Receptors,-,31019305,-6.0,MPTM_4528; MPTM_4537,Training/CV,Fold 4
+Melatonin receptor type 1B,P49286,W129F,6me7:A_W129F,Membrane,Receptors,-,31019305,-4.6,MPTM_4513,Training/CV,Fold 4
+Melatonin receptor type 1B,P49286,Q194A,6me7:A_Q194A,Aqueous,-,Coil,31019305,1.9,MPTM_4516,Training/CV,Fold 8
+Melatonin receptor type 1B,P49286,N268A,6me7:A_N268A,Membrane,Receptors,-,31019305,-0.3,MPTM_4518,Training/CV,Fold 4
+Melatonin receptor type 1B,P49286,N175A,6me7:A_N175A,Membrane,Receptors,-,31019305,1.0,MPTM_4514,Training/CV,Fold 4
+Melatonin receptor type 1B,P49286,H208A,6me7:A_H208A,Membrane,Receptors,-,31019305,-4.9,MPTM_4517,Training/CV,Fold 4
+Melatonin receptor type 1A,P48039,Y81F,6me2:A_Y81F,Membrane,Receptors,-,31019306,-3.6,MPTM_4549,Training/CV,Fold 4
+Melatonin receptor type 1A,P48039,Y81A,6me2:A_Y81A,Membrane,Receptors,-,31019306,-6.75,MPTM_4565; MPTM_4587,Training/CV,Fold 4
+Melatonin receptor type 1A,P48039,Q181A,6me2:A_Q181A,Aqueous,-,Coil,31019306,1.4,MPTM_4541,Training/CV,Fold 8
+Melatonin receptor type 1A,P48039,P82A,6me2:A_P82A,Membrane,Receptors,-,31019306,-9.15,MPTM_4567,Training/CV,Fold 4
+Melatonin receptor type 1A,P48039,N255A,6me2:A_N255A,Membrane,Receptors,-,31019306,0.2,MPTM_4542,Training/CV,Fold 4
+Melatonin receptor type 1A,P48039,M107D,6me2:A_M107D,Membrane,Receptors,-,31019306,-5.8,MPTM_4579; MPTM_4557,Training/CV,Fold 4
+Melatonin receptor type 1A,P48039,M107A,6me2:A_M107A,Membrane,Receptors,-,31019306,-4.1,MPTM_4544,Training/CV,Fold 4
+Melatonin receptor type 1A,P48039,H195A,6me2:A_H195A,Membrane,Receptors,-,31019306,-2.7,MPTM_4547,Training/CV,Fold 4
+Melatonin receptor type 1A,P48039,G108A,6me2:A_G108A,Membrane,Receptors,-,31019306,1.4,MPTM_4545,Training/CV,Fold 4
+Melatonin receptor type 1A,P48039,F196A,6me2:A_F196A,Membrane,Receptors,-,31019306,-6.5,MPTM_4548,Training/CV,Fold 4
+Melatonin receptor type 1A,P48039,F194A,6me2:A_F194A,Membrane,Receptors,-,31019306,-1.5,MPTM_4546,Training/CV,Fold 4
+Rhomboid protease GlpG,P44783,V122L,2nr9:A_V122L,Membrane,Transporters and others,-,22797666,3.5,MPTM_4059,Training/CV,Fold 10
+Rhomboid protease GlpG,P44783,T16M,2nr9:A_T16M,Membrane,Transporters and others,-,22797666,-0.2,MPTM_4056,Training/CV,Fold 10
+Rhomboid protease GlpG,P44783,F113G,3odj:A_F113G,Membrane,Transporters and others,-,22797666,-13.5,MPTM_4058,Training/CV,Fold 10
+Rhomboid protease GlpG,P44783,A98L,2nr9:A_A98L,Membrane,Transporters and others,-,22797666,-0.5,MPTM_4057,Training/CV,Fold 10
+Rhomboid protease GlpG,P44783,A167G,2nr9:A_A167G,Membrane,Transporters and others,-,22797666,-1.3,MPTM_4060,Training/CV,Fold 10
+GDP-mannose transporter 1,P40107,Y281A,6qsk:A_Y281A,Membrane,Transporters and others,-,31604945,1.5,MPTM_6470,Training/CV,Fold 9
+GDP-mannose transporter 1,P40107,K118A,6qsk:A_K118A,Membrane,Transporters and others,-,31604945,2.1,MPTM_6471,Training/CV,Fold 9
+TGF-beta receptor type-2,P37173,I73A,1m9z:A_I50A,Aqueous,-,Coil,25316422,-3.2,MPTM_144,Training/CV,Fold 10
+TGF-beta receptor type-2,P37173,D55A,1m9z:A_D32A,Aqueous,-,Exposed (helix and strand),25316422,3.7,MPTM_138,Training/CV,Fold 8
+Copper-transporting ATPase 2,P35670,G386V,2rop:A_G149V,Aqueous,-,Coil,27744583,-38.0,MPTM_4708,Training/CV,Fold 7
+Copper-transporting ATPase 2,P35670,G386D,2rop:A_G149D,Aqueous,-,Coil,27744583,-28.5,MPTM_4709,Training/CV,Fold 7
+Prostaglandin E2 receptor EP4 subtype,P35408,G106R,5ywy:A_G106R,Membrane,Receptors,-,30510193,6.5,MPTM_6319,Training/CV,Fold 5
+Prostaglandin E2 receptor EP4 subtype,P35408,A62L,5ywy:A_A62L,Membrane,Receptors,-,30510193,-0.5,MPTM_6318,Training/CV,Fold 5
+Syntaxin-1A,P32851,Y257A,3hd7:B_Y257A,Aqueous,-,Exposed (helix and strand),19571812,-4.3,MPTM_1262,Training/CV,Fold 7
+Syntaxin-1A,P32851,R263A,3hd7:B_R263A,Membrane,Transporters and others,-,19571812,-0.7,MPTM_1266,Training/CV,Fold 9
+Syntaxin-1A,P32851,R262A,3hd7:B_R262A,Membrane,Transporters and others,-,19571812,-1.4,MPTM_1265,Training/CV,Fold 9
+Syntaxin-1A,P32851,Q258A,3hd7:B_Q258A,Aqueous,-,Exposed (helix and strand),19571812,0.2,MPTM_1263,Training/CV,Fold 7
+Syntaxin-1A,P32851,K265A,3hd7:B_K265A,Membrane,Transporters and others,-,19571812,-0.7,MPTM_1268,Training/CV,Fold 9
+Syntaxin-1A,P32851,K264A,3hd7:B_K264A,Membrane,Transporters and others,-,19571812,-0.5,MPTM_1267,Training/CV,Fold 9
+Syntaxin-1A,P32851,K260A,3hd7:B_K260A,Membrane,Transporters and others,-,19571812,-0.5,MPTM_1264,Training/CV,Fold 9
+Syntaxin-1A,P32851,K256A,3hd7:B_K256A,Aqueous,-,Exposed (helix and strand),19571812,-1.7,MPTM_1261,Training/CV,Fold 7
+Sodium-dependent serotonin transporter,P31645,Y579W,5i6x:A_Y579W,Membrane,Transporters and others,-,26695939,2.65,MPTM_2717,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,Y358A,5i6x:A_Y358A,Aqueous,-,Exposed (helix and strand),26695939,3.41,MPTM_2716,Training/CV,Fold 2
+Sodium-dependent serotonin transporter,P31645,Y175F,5i6x:A_Y175F,Membrane,Transporters and others,-,26695939,2.05,MPTM_2715,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,Y110F,6dzy:A_Y110F,Aqueous,-,Coil,26695939,6.94,MPTM_2714,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,Y110A,5i6x:A_Y110A,Aqueous,-,Buried (helix and strand),26695939,10.13,MPTM_2713,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,W535A,5i6x:A_W535A,Aqueous,-,Exposed (helix and strand),26695939,3.17,MPTM_2712,Training/CV,Fold 2
+Sodium-dependent serotonin transporter,P31645,W317F,5i6x:A_W317F,Aqueous,-,Exposed (helix and strand),26695939,1.57,MPTM_2711,Training/CV,Fold 2
+Sodium-dependent serotonin transporter,P31645,W306F,5i6x:A_W306F,Aqueous,-,Exposed (helix and strand),26695939,4.05,MPTM_2710,Training/CV,Fold 2
+Sodium-dependent serotonin transporter,P31645,V542R,5i6x:A_V542R,Membrane,Transporters and others,-,26695939,1.64,MPTM_2709,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,V542A,5i6x:A_V542A,Membrane,Transporters and others,-,26695939,1.41,MPTM_2708,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,V512L,5i6x:A_V512L,Aqueous,-,Buried (helix and strand),26695939,1.04,MPTM_2707,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,V512F,5i6x:A_V512F,Aqueous,-,Buried (helix and strand),26695939,8.93,MPTM_2706,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,V512A,5i6x:A_V512A,Aqueous,-,Buried (helix and strand),26695939,1.96,MPTM_2705,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,V510I,5i6x:A_V510I,Aqueous,-,Buried (helix and strand),26695939,2.75,MPTM_2704,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,V510A,5i6x:A_V510A,Aqueous,-,Buried (helix and strand),26695939,2.49,MPTM_2703,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,V504L,5i6x:A_V504L,Membrane,Transporters and others,-,26695939,2.61,MPTM_2702,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,V504A,5i6x:A_V504A,Membrane,Transporters and others,-,26695939,1.23,MPTM_2701,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,V501A,5i6x:A_V501A,Membrane,Transporters and others,-,26695939,2.6,MPTM_2700,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,V489L,5i6x:A_V489L,Membrane,Transporters and others,-,26695939,2.56,MPTM_2699,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,V488F,5i6x:A_V488F,Aqueous,-,Buried (helix and strand),26695939,-0.15,MPTM_2698,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,V488A,5i6x:A_V488A,Aqueous,-,Buried (helix and strand),26695939,0.88,MPTM_2697,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,V479A,5i6x:A_V479A,Membrane,Transporters and others,-,26695939,11.44,MPTM_2696,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,V470F,5i6x:A_V470F,Membrane,Transporters and others,-,26695939,7.05,MPTM_2695,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,V469L,5i6x:A_V469L,Membrane,Transporters and others,-,26695939,1.66,MPTM_2694,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,V469F,5i6x:A_V469F,Membrane,Transporters and others,-,26695939,0.43,MPTM_2693,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,V469A,5i6x:A_V469A,Membrane,Transporters and others,-,26695939,1.05,MPTM_2692,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,V466L,5i71:A_V466L,Membrane,Transporters and others,-,26695939,-1.0,MPTM_2691,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,V466I,5i71:A_V466I,Membrane,Transporters and others,-,26695939,-0.87,MPTM_2690,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,V466A,5i71:A_V466A,Membrane,Transporters and others,-,26695939,2.11,MPTM_2689,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,V457A,5i6x:A_V457A,Aqueous,-,Coil,26695939,1.7,MPTM_2688,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,V450L,5i6x:A_V450L,Aqueous,-,Buried (helix and strand),26695939,1.5,MPTM_2687,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,V450A,5i6x:A_V450A,Aqueous,-,Buried (helix and strand),26695939,2.26,MPTM_2686,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,V394A,5i6x:A_V394A,Aqueous,-,Coil,26695939,3.34,MPTM_2685,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,V382A,5i6x:A_V382A,Aqueous,-,Buried (helix and strand),26695939,6.71,MPTM_2684,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,V374A,5i6x:A_V374A,Membrane,Transporters and others,-,26695939,1.42,MPTM_2683,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,V367L,5i6x:A_V367L,Membrane,Transporters and others,-,26695939,3.13,MPTM_2682,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,V367I,5i6x:A_V367I,Membrane,Transporters and others,-,26695939,2.53,MPTM_2681,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,V367F,5i6x:A_V367F,Membrane,Transporters and others,-,26695939,-0.14,MPTM_2680,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,V366F,5i6x:A_V366F,Membrane,Transporters and others,-,26695939,3.35,MPTM_2679,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,V363L,5i6x:A_V363L,Membrane,Transporters and others,-,26695939,3.69,MPTM_2678,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,V343S,5i6x:A_V343S,Membrane,Transporters and others,-,26695939,3.64,MPTM_2677,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,V325A,5i6z:A_V325A,Membrane,Transporters and others,-,26695939,7.01,MPTM_2676,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,V297F,5i6x:A_V297F,Aqueous,-,Exposed (helix and strand),26695939,3.3,MPTM_2675,Training/CV,Fold 2
+Sodium-dependent serotonin transporter,P31645,V297A,5i6x:A_V297A,Aqueous,-,Exposed (helix and strand),26695939,3.95,MPTM_2674,Training/CV,Fold 2
+Sodium-dependent serotonin transporter,P31645,V294A,5i71:A_V294A,Membrane,Transporters and others,-,26695939,2.04,MPTM_2673,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,V283F,5i6x:A_V283F,Membrane,Transporters and others,-,26695939,4.13,MPTM_2672,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,V281A,5i6x:A_V281A,Membrane,Transporters and others,-,26695939,-0.37,MPTM_2671,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,V280A,5i6x:A_V280A,Membrane,Transporters and others,-,26695939,1.98,MPTM_2670,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,V265A,5i6x:A_V265A,Membrane,Transporters and others,-,26695939,2.36,MPTM_2669,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,T81A,5i6x:A_T81A,Aqueous,-,Coil,26695939,1.92,MPTM_2668,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,T616D,5i6x:A_T616D,Aqueous,-,Coil,26695939,2.44,MPTM_2667,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,T616A,5i6x:A_T616A,Aqueous,-,Coil,26695939,2.86,MPTM_2666,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,T613D,5i6x:A_T613D,Aqueous,-,Coil,26695939,1.14,MPTM_2665,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,T613A,5i6x:A_T613A,Aqueous,-,Coil,26695939,1.88,MPTM_2664,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,T583G,5i6x:A_T583G,Membrane,Transporters and others,-,26695939,1.94,MPTM_2663,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,T503F,5i6x:A_T503F,Membrane,Transporters and others,-,26695939,2.15,MPTM_2662,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,T503A,5i6x:A_T503A,Membrane,Transporters and others,-,26695939,3.79,MPTM_2661,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,T439V,6dzw:A_T439V,Membrane,Transporters and others,-,26695939,-0.2,MPTM_2660,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,T439S,6dzw:A_T439S,Membrane,Transporters and others,-,26695939,5.76,MPTM_2659,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,T439A,6dzw:A_T439A,Membrane,Transporters and others,-,26695939,2.41,MPTM_2658,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,T364A,5i6x:A_T364A,Membrane,Transporters and others,-,26695939,2.9,MPTM_2657,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,T323A,5i6x:A_T323A,Aqueous,-,Exposed (helix and strand),26695939,3.33,MPTM_2656,Training/CV,Fold 2
+Sodium-dependent serotonin transporter,P31645,T286L,5i6x:A_T286L,Membrane,Transporters and others,-,26695939,3.09,MPTM_2655,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,T286A,5i6x:A_T286A,Membrane,Transporters and others,-,26695939,-0.65,MPTM_2654,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,T276D,5i6x:A_T276D,Aqueous,-,Exposed (helix and strand),26695939,0.92,MPTM_2653,Training/CV,Fold 2
+Sodium-dependent serotonin transporter,P31645,T276A,5i6x:A_T276A,Aqueous,-,Buried (helix and strand),26695939,1.62,MPTM_2652,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,T233A,5i6x:A_T233A,Aqueous,-,Buried (helix and strand),26695939,1.66,MPTM_2651,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,T122A,5i6x:A_T122A,Membrane,Transporters and others,-,26695939,2.54,MPTM_2650,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,S611D,5i6x:A_S611D,Aqueous,-,Buried (helix and strand),26695939,1.08,MPTM_2649,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,S611A,5i6x:A_S611A,Aqueous,-,Buried (helix and strand),26695939,2.61,MPTM_2648,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,S585L,5i6x:A_S585L,Membrane,Transporters and others,-,26695939,4.94,MPTM_2647,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,S584F,5i6x:A_S584F,Membrane,Transporters and others,-,26695939,-0.2,MPTM_2646,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,S555A,5i6x:A_S555A,Membrane,Transporters and others,-,26695939,2.25,MPTM_2645,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,S532P,5i6x:A_S532P,Aqueous,-,Coil,26695939,1.63,MPTM_2644,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,S375F,5i6x:A_S375F,Membrane,Transporters and others,-,26695939,3.37,MPTM_2643,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,S375A,5i6x:A_S375A,Membrane,Transporters and others,-,26695939,3.6,MPTM_2642,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,S365A,5i6x:A_S365A,Membrane,Transporters and others,-,26695939,2.34,MPTM_2641,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,S293A,5i71:A_S293A,Membrane,Transporters and others,-,26695939,3.68,MPTM_2640,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,S224A,5i6x:A_S224A,Aqueous,-,Coil,26695939,4.24,MPTM_2639,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,S189A,5i6x:A_S189A,Aqueous,-,Coil,26695939,4.14,MPTM_2638,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,S174F,5i6x:A_S174F,Membrane,Transporters and others,-,26695939,0.04,MPTM_2637,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,R461A,5i6x:A_R461A,Aqueous,-,Coil,26695939,1.49,MPTM_2636,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,R152A,5i6x:A_R152A,Aqueous,-,Exposed (helix and strand),26695939,3.51,MPTM_2635,Training/CV,Fold 2
+Sodium-dependent serotonin transporter,P31645,Q359A,5i6x:A_Q359A,Aqueous,-,Exposed (helix and strand),26695939,3.46,MPTM_2634,Training/CV,Fold 2
+Sodium-dependent serotonin transporter,P31645,Q254A,5i6x:A_Q254A,Membrane,Transporters and others,-,26695939,1.27,MPTM_2633,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,Q238E,5i6x:A_Q238E,Aqueous,-,Coil,26695939,0.66,MPTM_2632,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,Q194A,5i6x:A_Q194A,Aqueous,-,Coil,26695939,2.66,MPTM_2631,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,Q111K,5i6x:A_Q111K,Aqueous,-,Exposed (helix and strand),26695939,2.2,MPTM_2630,Training/CV,Fold 2
+Sodium-dependent serotonin transporter,P31645,P227A,5i6x:A_P227A,Aqueous,-,Buried (helix and strand),26695939,5.46,MPTM_2629,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,N217Q,5i6x:A_N217Q,Aqueous,-,Coil,26695939,3.37,MPTM_2628,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,N217A,5i6x:A_N217A,Aqueous,-,Coil,26695939,3.3,MPTM_2627,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,N211P,5i6x:A_N211P,Aqueous,-,Coil,26695939,7.45,MPTM_2626,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,N208Q,5i6x:A_N208Q,Aqueous,-,Coil,26695939,2.66,MPTM_2625,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,N208A,5i6x:A_N208A,Aqueous,-,Coil,26695939,2.76,MPTM_2624,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,N177E,5i6x:A_N177E,Membrane,Transporters and others,-,26695939,-1.96,MPTM_2623,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,M558A,5i6x:A_M558A,Membrane,Transporters and others,-,26695939,2.28,MPTM_2622,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,M370A,5i6x:A_M370A,Membrane,Transporters and others,-,26695939,2.4,MPTM_2621,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,M260F,5i6x:A_M260F,Membrane,Transporters and others,-,26695939,2.81,MPTM_2620,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,M180I,5i6x:A_M180I,Membrane,Transporters and others,-,26695939,2.89,MPTM_2619,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,L506F,5i6x:A_L506F,Membrane,Transporters and others,-,26695939,3.13,MPTM_2618,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,L506A,5i6x:A_L506A,Membrane,Transporters and others,-,26695939,-0.07,MPTM_2617,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,L502F,5i6x:A_L502F,Membrane,Transporters and others,-,26695939,-0.93,MPTM_2616,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,L443V,5i6x:A_L443V,Membrane,Transporters and others,-,26695939,-1.26,MPTM_2615,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,L443M,5i6x:A_L443M,Membrane,Transporters and others,-,26695939,1.14,MPTM_2614,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,L443G,5i6x:A_L443G,Membrane,Transporters and others,-,26695939,1.17,MPTM_2613,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,L429A,5i6z:A_L429A,Membrane,Transporters and others,-,26695939,1.23,MPTM_2612,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,L255F,5i6x:A_L255F,Membrane,Transporters and others,-,26695939,0.83,MPTM_2611,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,K84S,5i6x:A_K84S,Aqueous,-,Coil,26695939,7.59,MPTM_2610,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,K84G,5i6x:A_K84G,Aqueous,-,Coil,26695939,6.62,MPTM_2609,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,K610A,5i6x:A_K610A,Aqueous,-,Exposed (helix and strand),26695939,2.04,MPTM_2608,Training/CV,Fold 2
+Sodium-dependent serotonin transporter,P31645,K605A,5i6x:A_K605A,Aqueous,-,Exposed (helix and strand),26695939,2.77,MPTM_2607,Training/CV,Fold 2
+Sodium-dependent serotonin transporter,P31645,K460A,5i6x:A_K460A,Aqueous,-,Coil,26695939,2.5,MPTM_2606,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,K399T,5i6x:A_K399T,Aqueous,-,Coil,26695939,3.06,MPTM_2605,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,K319A,5i6x:A_K319A,Aqueous,-,Exposed (helix and strand),26695939,1.5,MPTM_2604,Training/CV,Fold 2
+Sodium-dependent serotonin transporter,P31645,K314A,5i6x:A_K314A,Aqueous,-,Coil,26695939,2.98,MPTM_2603,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,K279A,5i6x:A_K279A,Membrane,Transporters and others,-,26695939,0.86,MPTM_2602,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,K275A,5i6x:A_K275A,Aqueous,-,Exposed (helix and strand),26695939,2.2,MPTM_2601,Training/CV,Fold 2
+Sodium-dependent serotonin transporter,P31645,K272R,5i6x:A_K272R,Aqueous,-,Coil,26695939,1.81,MPTM_2600,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,K243A,5i6x:A_K243A,Aqueous,-,Coil,26695939,2.19,MPTM_2599,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,K201A,5i6x:A_K201A,Aqueous,-,Coil,26695939,3.87,MPTM_2598,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,K153R,5i6x:A_K153R,Aqueous,-,Coil,26695939,4.58,MPTM_2597,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,K153A,5i6x:A_K153A,Aqueous,-,Coil,26695939,2.69,MPTM_2596,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,I593L,5i6x:A_I593L,Aqueous,-,Exposed (helix and strand),26695939,1.84,MPTM_2595,Training/CV,Fold 2
+Sodium-dependent serotonin transporter,P31645,I544V,5i6x:A_I544V,Membrane,Transporters and others,-,26695939,1.88,MPTM_2594,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,I544A,5i6x:A_I544A,Membrane,Transporters and others,-,26695939,2.01,MPTM_2593,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,I507F,5i6x:A_I507F,Membrane,Transporters and others,-,26695939,1.1,MPTM_2592,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,I507A,5i6x:A_I507A,Membrane,Transporters and others,-,26695939,0.92,MPTM_2591,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,I425L,5i6x:A_I425L,Aqueous,-,Exposed (helix and strand),26695939,1.26,MPTM_2590,Training/CV,Fold 2
+Sodium-dependent serotonin transporter,P31645,I333V,5i6x:A_I333V,Membrane,Transporters and others,-,26695939,2.26,MPTM_2589,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,I333A,5i6x:A_I333A,Membrane,Transporters and others,-,26695939,0.4,MPTM_2588,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,I327A,5i6x:A_I327A,Membrane,Transporters and others,-,26695939,5.26,MPTM_2587,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,I291A,5i6x:A_I291A,Membrane,Transporters and others,-,26695939,10.4,MPTM_2586,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,I290A,5i6x:A_I290A,Membrane,Transporters and others,-,26695939,3.16,MPTM_2585,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,I270L,5i6x:A_I270L,Membrane,Transporters and others,-,26695939,0.99,MPTM_2584,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,I266L,5i6x:A_I266L,Membrane,Transporters and others,-,26695939,-1.1,MPTM_2583,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,I262A,5i6x:A_I262A,Membrane,Transporters and others,-,26695939,8.96,MPTM_2582,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,I259L,5i6x:A_I259L,Membrane,Transporters and others,-,26695939,2.0,MPTM_2581,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,I188F,5i6x:A_I188F,Aqueous,-,Exposed (helix and strand),26695939,4.03,MPTM_2580,Training/CV,Fold 2
+Sodium-dependent serotonin transporter,P31645,I172A,5i6x:A_I172A,Membrane,Transporters and others,-,26695939,-3.48,MPTM_2579,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,I167A,5i6x:A_I167A,Membrane,Transporters and others,-,26695939,0.96,MPTM_2578,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,I157A,5i6x:A_I157A,Aqueous,-,Buried (helix and strand),26695939,2.12,MPTM_2577,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,I126A,5i6x:A_I126A,Membrane,Transporters and others,-,26695939,4.75,MPTM_2576,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,H456F,5i6x:A_H456F,Aqueous,-,Coil,26695939,2.06,MPTM_2575,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,H456A,5i6x:A_H456A,Aqueous,-,Coil,26695939,2.27,MPTM_2574,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,H143N,5i6x:A_H143N,Aqueous,-,Buried (helix and strand),26695939,1.05,MPTM_2573,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,H143A,5i6x:A_H143A,Aqueous,-,Buried (helix and strand),26695939,-18.5,MPTM_2572,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,G83S,5i6x:A_G83S,Aqueous,-,Coil,26695939,3.05,MPTM_2571,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,G476A,5i6x:A_G476A,Membrane,Transporters and others,-,26695939,0.88,MPTM_2570,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,G324A,5i71:A_G324A,Membrane,Transporters and others,-,26695939,3.08,MPTM_2569,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,G250A,5i6x:A_G250A,Aqueous,-,Coil,26695939,2.66,MPTM_2568,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,G249A,5i6x:A_G249A,Aqueous,-,Coil,26695939,0.87,MPTM_2567,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,G207P,5i6x:A_G207P,Aqueous,-,Coil,26695939,3.5,MPTM_2566,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,F483Q,5i6x:A_F483Q,Aqueous,-,Coil,26695939,0.9,MPTM_2565,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,F423W,5i6x:A_F423W,Aqueous,-,Buried (helix and strand),26695939,1.61,MPTM_2564,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,F347Y,5i6x:A_F347Y,Aqueous,-,Buried (helix and strand),26695939,1.66,MPTM_2563,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,F341A,5i6x:A_F341A,Membrane,Transporters and others,-,26695939,-2.22,MPTM_2562,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,F263Y,5i6x:A_F263Y,Membrane,Transporters and others,-,26695939,2.29,MPTM_2561,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,F231Y,5i6x:A_F231Y,Aqueous,-,Buried (helix and strand),26695939,5.12,MPTM_2560,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,F127L,5i6x:A_F127L,Membrane,Transporters and others,-,26695939,4.81,MPTM_2559,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,E606A,5i6x:A_E606A,Aqueous,-,Exposed (helix and strand),26695939,1.75,MPTM_2558,Training/CV,Fold 2
+Sodium-dependent serotonin transporter,P31645,E508A,5i71:A_E508A,Membrane,Transporters and others,-,26695939,2.75,MPTM_2557,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,E412Q,5i6x:A_E412Q,Aqueous,-,Buried (helix and strand),26695939,6.35,MPTM_2556,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,E396Q,5i6x:A_E396Q,Aqueous,-,Exposed (helix and strand),26695939,3.17,MPTM_2555,Training/CV,Fold 2
+Sodium-dependent serotonin transporter,P31645,E392Q,5i6x:A_E392Q,Aqueous,-,Coil,26695939,1.83,MPTM_2554,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,E392A,5i6x:A_E392A,Aqueous,-,Coil,26695939,2.98,MPTM_2553,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,E229A,5i6x:A_E229A,Aqueous,-,Exposed (helix and strand),26695939,3.74,MPTM_2552,Training/CV,Fold 2
+Sodium-dependent serotonin transporter,P31645,C588M,5i71:A_C588M,Membrane,Transporters and others,-,26695939,2.19,MPTM_2551,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,C588A,5i71:A_C588A,Membrane,Transporters and others,-,26695939,5.5,MPTM_2550,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,C580A,5i6x:A_C580A,Membrane,Transporters and others,-,26695939,1.59,MPTM_2549,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,C540A,5i6x:A_C540A,Membrane,Transporters and others,-,26695939,1.26,MPTM_2548,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,C522S,5i6x:A_C522S,Aqueous,-,Buried (helix and strand),26695939,1.78,MPTM_2547,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,C522A,5i6x:A_C522A,Aqueous,-,Buried (helix and strand),26695939,1.99,MPTM_2546,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,C473F,5i6x:A_C473F,Membrane,Transporters and others,-,26695939,7.5,MPTM_2545,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,C473A,5i6x:A_C473A,Membrane,Transporters and others,-,26695939,0.68,MPTM_2544,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,C369S,5i6x:A_C369S,Membrane,Transporters and others,-,26695939,2.82,MPTM_2543,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,C369A,5i6x:A_C369A,Membrane,Transporters and others,-,26695939,0.87,MPTM_2542,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,C357S,5i6x:A_C357S,Aqueous,-,Coil,26695939,0.72,MPTM_2541,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,C258A,5i6x:A_C258A,Membrane,Transporters and others,-,26695939,1.35,MPTM_2540,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,C166A,5i6x:A_C166A,Membrane,Transporters and others,-,26695939,3.74,MPTM_2539,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,C155A,5i6x:A_C155A,Aqueous,-,Coil,26695939,2.01,MPTM_2538,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,C147A,5i6x:A_C147A,Aqueous,-,Coil,26695939,1.96,MPTM_2537,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,C109A,5i6x:A_C109A,Aqueous,-,Buried (helix and strand),26695939,3.22,MPTM_2536,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,A511L,5i6x:A_A511L,Aqueous,-,Buried (helix and strand),26695939,7.2,MPTM_2535,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,A511I,5i6x:A_A511I,Aqueous,-,Buried (helix and strand),26695939,3.62,MPTM_2534,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,A511G,5i6x:A_A511G,Aqueous,-,Buried (helix and strand),26695939,1.88,MPTM_2533,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,A509L,5i71:A_A509L,Membrane,Transporters and others,-,26695939,-0.04,MPTM_2532,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,A505V,5i6x:A_A505V,Membrane,Transporters and others,-,26695939,4.04,MPTM_2531,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,A505I,5i6x:A_A505I,Membrane,Transporters and others,-,26695939,1.2,MPTM_2530,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,A505G,5i6x:A_A505G,Membrane,Transporters and others,-,26695939,-5.05,MPTM_2529,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,A505F,5i6x:A_A505F,Membrane,Transporters and others,-,26695939,3.16,MPTM_2528,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,A441G,5i6x:A_A441G,Membrane,Transporters and others,-,26695939,4.47,MPTM_2527,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,A256L,5i6x:A_A256L,Membrane,Transporters and others,-,26695939,4.02,MPTM_2526,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,A173S,5i6x:A_A173S,Membrane,Transporters and others,-,26695939,0.82,MPTM_2525,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,A173G,5i6x:A_A173G,Membrane,Transporters and others,-,26695939,1.39,MPTM_2524,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,A169I,5i6x:A_A169I,Membrane,Transporters and others,-,26695939,-1.51,MPTM_2523,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,A125L,5i6x:A_A125L,Membrane,Transporters and others,-,26695939,7.58,MPTM_2522,Training/CV,Fold 1
+Sodium-dependent serotonin transporter,P31645,A125F,5i6x:A_A125F,Membrane,Transporters and others,-,26695939,3.56,MPTM_2521,Training/CV,Fold 1
+Multidrug efflux pump subunit AcrB,P31224,M774K,2dhh:A_M774K,Aqueous,-,Coil,24007302,-3.0,MPTM_723,Training/CV,Fold 7
+Multidrug efflux pump subunit AcrB,P31224,C493A,1iwg:A_C493A,Aqueous,-,Buried (helix and strand),25772562,2.1,MPTM_2784,Training/CV,Fold 9
+Ephrin type-A receptor 3,P29320,W826P,4twn:A_W826P,Aqueous,-,Coil,29432127,-1.5,MPTM_6359,Training/CV,Fold 6
+Adenosine receptor A2a,P29274,W246A,3vga:A_W246A,Membrane,Receptors,-,29395784,2.11,MPTM_4473,Training/CV,Fold 3
+Adenosine receptor A2a,P29274,V57A,3pwh:A_V57A,Membrane,Receptors,-,21501622,6.0,MPTM_61; MPTM_76,Training/CV,Fold 3
+Adenosine receptor A2a,P29274,V282A,3pwh:A_V282A,Membrane,Receptors,-,21501622,1.5,MPTM_83; MPTM_71,Training/CV,Fold 3
+Adenosine receptor A2a,P29274,V12A,3pwh:A_V12A,Membrane,Receptors,-,21501622,2.0,MPTM_56,Training/CV,Fold 3
+Adenosine receptor A2a,P29274,T88R,2ydv:A_T88R,Membrane,Receptors,-,27056055,-0.1,MPTM_657,Training/CV,Fold 3
+Adenosine receptor A2a,P29274,T88K,2ydv:A_T88K,Membrane,Receptors,-,27056055,4.2,MPTM_662,Training/CV,Fold 3
+Adenosine receptor A2a,P29274,T88E,2ydv:A_T88E,Membrane,Receptors,-,27056055,6.9,MPTM_660,Training/CV,Fold 3
+Adenosine receptor A2a,P29274,T65A,3ery:A_T65A,Membrane,Receptors,-,21501622,5.25,MPTM_63; MPTM_77,Training/CV,Fold 3
+Adenosine receptor A2a,P29274,S91R,2ydv:A_S91R,Membrane,Receptors,-,27056055,5.4,MPTM_661,Training/CV,Fold 3
+Adenosine receptor A2a,P29274,S91K,2ydv:A_S91K,Membrane,Receptors,-,27056055,7.0,MPTM_659,Training/CV,Fold 3
+Adenosine receptor A2a,P29274,S91A,3vga:A_S91A,Membrane,Receptors,-,29395784,-0.79,MPTM_4471,Training/CV,Fold 3
+Adenosine receptor A2a,P29274,S90A,3pwh:A_S90A,Membrane,Receptors,-,21501622,1.75,MPTM_80; MPTM_67,Training/CV,Fold 3
+Adenosine receptor A2a,P29274,S47A,3pwh:A_S47A,Membrane,Receptors,-,21501622,-2.0,MPTM_73; MPTM_57,Training/CV,Fold 3
+Adenosine receptor A2a,P29274,Q89A,3pwh:A_Q89A,Membrane,Receptors,-,21501622,-1.0,MPTM_79; MPTM_66,Training/CV,Fold 3
+Adenosine receptor A2a,P29274,N284A,3vga:A_N284A,Membrane,Receptors,-,29395784,2.91,MPTM_4472,Training/CV,Fold 3
+Adenosine receptor A2a,P29274,L48A,3pwh:A_L48A,Membrane,Receptors,-,21501622,13.8,MPTM_84; MPTM_58,Training/CV,Fold 3
+Adenosine receptor A2a,P29274,I238A,3pwh:A_I238A,Membrane,Receptors,-,21501622,3.25,MPTM_69; MPTM_82,Training/CV,Fold 3
+Adenosine receptor A2a,P29274,F83A,3pwh:A_F83A,Membrane,Receptors,-,21501622,-7.0,MPTM_78; MPTM_65,Training/CV,Fold 3
+Adenosine receptor A2a,P29274,F79A,3ery:A_F79A,Membrane,Receptors,-,21501622,2.5,MPTM_64,Training/CV,Fold 3
+Adenosine receptor A2a,P29274,F62A,3pwh:A_F62A,Membrane,Receptors,-,21501622,2.5,MPTM_62,Training/CV,Fold 3
+Adenosine receptor A2a,P29274,F242A,3pwh:A_F242A,Membrane,Receptors,-,21501622,2.5,MPTM_70,Training/CV,Fold 3
+Adenosine receptor A2a,P29274,D52N,3vga:A_D52N,Membrane,Receptors,-,29395784,7.46,MPTM_4469,Training/CV,Fold 3
+Adenosine receptor A2a,P29274,D52A,3vga:A_D52A,Membrane,Receptors,-,29395784,-4.03,MPTM_4470,Training/CV,Fold 3
+Adenosine receptor A2a,P29274,A54L,3pwh:A_A54L,Membrane,Receptors,-,21501622,5.5,MPTM_60; MPTM_75,Training/CV,Fold 3
+Adenosine receptor A2a,P29274,A50L,3pwh:A_A50L,Membrane,Receptors,-,21501622,4.5,MPTM_59; MPTM_74,Training/CV,Fold 3
+Adenosine receptor A2a,P29274,A236L,3pwh:A_A236L,Membrane,Receptors,-,21501622,4.25,MPTM_68; MPTM_81,Training/CV,Fold 3
+5-hydroxytryptamine receptor 2C,P28335,V240A,6bqh:A_V240A,Aqueous,-,Exposed (helix and strand),29927385,2.0,MPTM_6828,Training/CV,Fold 6
+5-hydroxytryptamine receptor 2C,P28335,L333V,6bqh:A_L333V,Membrane,Receptors,-,29927385,3.3,MPTM_6829,Training/CV,Fold 5
+5-hydroxytryptamine receptor 2C,P28335,I374T,6bqh:A_I374T,Aqueous,-,Buried (helix and strand),29927385,3.7,MPTM_6833,Training/CV,Fold 7
+5-hydroxytryptamine receptor 2C,P28335,I374D,6bqh:A_I374D,Aqueous,-,Buried (helix and strand),29927385,3.5,MPTM_6832,Training/CV,Fold 7
+5-hydroxytryptamine receptor 2C,P28335,G362L,6bqh:A_G362L,Membrane,Receptors,-,29927385,1.9,MPTM_6830,Training/CV,Fold 5
+5-hydroxytryptamine receptor 2C,P28335,G362A,6bqh:A_G362A,Membrane,Receptors,-,29927385,3.9,MPTM_6831,Training/CV,Fold 5
+5-hydroxytryptamine receptor 2C,P28335,G184A,6bqh:A_G184A,Membrane,Receptors,-,29927385,1.5,MPTM_6827,Training/CV,Fold 5
+5-hydroxytryptamine receptor 2C,P28335,C360N,6bqh:A_C360N,Membrane,Receptors,-,29927385,6.7,MPTM_6813,Training/CV,Fold 5
+5-hydroxytryptamine receptor 2C,P28335,A171L,6bqh:A_A171L,Aqueous,-,Buried (helix and strand),29927385,1.9,MPTM_6826,Training/CV,Fold 7
+C-X-C chemokine receptor type 1,P25024,L81A,2lnl:A_L81A,Membrane,Receptors,-,30926935,-7.22,MPTM_3016,Training/CV,Fold 5
+C-X-C chemokine receptor type 1,P25024,L126W,2lnl:A_L126W,Membrane,Receptors,-,30926935,8.37,MPTM_3017,Training/CV,Fold 5
+C-X-C chemokine receptor type 1,P25024,K154A,2lnl:A_K154A,Membrane,Receptors,-,30926935,3.44,MPTM_3018,Training/CV,Fold 5
+C-X-C chemokine receptor type 1,P25024,G294A,2lnl:A_G294A,Membrane,Receptors,-,30926935,-4.42,MPTM_3019,Training/CV,Fold 5
+Endothelin receptor type B,P24530,S342A,6igk:A_S342A,Membrane,Receptors,-,27038509,1.7,MPTM_294,Training/CV,Fold 5
+Endothelin receptor type B,P24530,R124Y,6igk:A_R124Y,Membrane,Receptors,-,27038509,7.4,MPTM_291,Training/CV,Fold 5
+Endothelin receptor type B,P24530,K270A,6igk:A_K270A,Membrane,Receptors,-,27038509,6.8,MPTM_293,Training/CV,Fold 5
+Endothelin receptor type B,P24530,I381A,6igk:A_I381A,Membrane,Receptors,-,27038509,3.3,MPTM_295,Training/CV,Fold 5
+Endothelin receptor type B,P24530,D154A,6igk:A_D154A,Membrane,Receptors,-,27038509,6.9,MPTM_292,Training/CV,Fold 5
+Apolipoprotein N-acyltransferase,P23930,C387S,5n6h:A_C387S,Aqueous,-,Buried (helix and strand),30180556,1.6,MPTM_5287,Training/CV,Fold 6
+Apolipoprotein N-acyltransferase,P23930,C387A,5n6h:A_C387A,Aqueous,-,Buried (helix and strand),30180556,-2.4,MPTM_5294,Training/CV,Fold 6
+Pyrophosphate-energized vacuolar membrane proton pump,P21616,Y230A,4a01:A_Y230A,Membrane,Transporters and others,-,16018964,-4.0,MPTM_643,Training/CV,Fold 3
+Pyrophosphate-energized vacuolar membrane proton pump,P21616,T228A,6afs:A_T228A,Membrane,Transporters and others,-,16018964,-3.7,MPTM_641,Training/CV,Fold 3
+Pyrophosphate-energized vacuolar membrane proton pump,P21616,S236A,4a01:A_S236A,Membrane,Transporters and others,-,16018964,-4.2,MPTM_649,Training/CV,Fold 3
+Pyrophosphate-energized vacuolar membrane proton pump,P21616,S235A,4a01:A_S235A,Membrane,Transporters and others,-,16018964,-3.1,MPTM_648,Training/CV,Fold 3
+Pyrophosphate-energized vacuolar membrane proton pump,P21616,R242A,4a01:A_R242A,Membrane,Transporters and others,-,16018964,-3.9,MPTM_655,Training/CV,Fold 3
+Pyrophosphate-energized vacuolar membrane proton pump,P21616,M237A,4a01:A_M237A,Membrane,Transporters and others,-,16018964,-0.8,MPTM_650,Training/CV,Fold 3
+Pyrophosphate-energized vacuolar membrane proton pump,P21616,L239A,4a01:A_L239A,Membrane,Transporters and others,-,16018964,-7.5,MPTM_652,Training/CV,Fold 3
+Pyrophosphate-energized vacuolar membrane proton pump,P21616,L232A,4a01:A_L232A,Membrane,Transporters and others,-,16018964,-5.9,MPTM_645,Training/CV,Fold 3
+Pyrophosphate-energized vacuolar membrane proton pump,P21616,H758A,4a01:A_H758A,Membrane,Transporters and others,-,14871497,-1.3,MPTM_674,Training/CV,Fold 3
+Pyrophosphate-energized vacuolar membrane proton pump,P21616,H704A,4a01:A_H704A,Aqueous,-,Exposed (helix and strand),14871497,-0.3,MPTM_672,Training/CV,Fold 5
+Pyrophosphate-energized vacuolar membrane proton pump,P21616,H68A,4a01:A_H68A,Aqueous,-,Coil,14871497,1.5,MPTM_669,Training/CV,Fold 5
+Pyrophosphate-energized vacuolar membrane proton pump,P21616,H520A,4a01:A_H520A,Aqueous,-,Exposed (helix and strand),14871497,1.0,MPTM_671,Training/CV,Fold 5
+Pyrophosphate-energized vacuolar membrane proton pump,P21616,H319A,4a01:A_H319A,Aqueous,-,Coil,14871497,-2.0,MPTM_670,Training/CV,Fold 5
+Pyrophosphate-energized vacuolar membrane proton pump,P21616,G241A,4a01:A_G241A,Membrane,Transporters and others,-,16018964,-1.9,MPTM_654,Training/CV,Fold 3
+Pyrophosphate-energized vacuolar membrane proton pump,P21616,G234A,4a01:A_G234A,Membrane,Transporters and others,-,16018964,0.4,MPTM_647,Training/CV,Fold 3
+Pyrophosphate-energized vacuolar membrane proton pump,P21616,G233A,4a01:A_G233A,Membrane,Transporters and others,-,16018964,0.2,MPTM_646,Training/CV,Fold 3
+Pyrophosphate-energized vacuolar membrane proton pump,P21616,G231A,4a01:A_G231A,Membrane,Transporters and others,-,16018964,0.9,MPTM_644,Training/CV,Fold 3
+Pyrophosphate-energized vacuolar membrane proton pump,P21616,G229A,4a01:A_G229A,Membrane,Transporters and others,-,16018964,-4.0,MPTM_642,Training/CV,Fold 3
+Pyrophosphate-energized vacuolar membrane proton pump,P21616,F240A,4a01:A_F240A,Membrane,Transporters and others,-,16018964,-8.7,MPTM_653,Training/CV,Fold 3
+Pyrophosphate-energized vacuolar membrane proton pump,P21616,E225A,6afx:A_E225A,Aqueous,-,Exposed (helix and strand),16018964,-3.4,MPTM_638,Training/CV,Fold 5
+Pyrophosphate-energized vacuolar membrane proton pump,P21616,A238S,4a01:A_A238S,Membrane,Transporters and others,-,16018964,-4.1,MPTM_651,Training/CV,Fold 3
+Neurotensin receptor type 1,P20789,Y324L,4xes:A_Y324L,Membrane,Receptors,-,22665811,-6.4,MPTM_1776,Training/CV,Fold 2
+Neurotensin receptor type 1,P20789,V240L,4xes:A_V240L,Membrane,Receptors,-,22665811,-2.6,MPTM_1786,Training/CV,Fold 2
+Neurotensin receptor type 1,P20789,T68S,4xes:A_T68S,Membrane,Receptors,-,22665811,-2.4,MPTM_1752,Training/CV,Fold 2
+Neurotensin receptor type 1,P20789,T354S,4xes:A_T354S,Membrane,Receptors,-,22665811,-2.3,MPTM_1756,Training/CV,Fold 2
+Neurotensin receptor type 1,P20789,T101R,4xes:A_T101R,Aqueous,-,Buried (helix and strand),22665811,-1.6,MPTM_1773,Training/CV,Fold 7
+Neurotensin receptor type 1,P20789,S83G,4xes:A_S83G,Membrane,Receptors,-,22665811,1.0,MPTM_1755,Training/CV,Fold 2
+Neurotensin receptor type 1,P20789,R143K,4xes:A_R143K,Membrane,Receptors,-,22665811,-0.2,MPTM_1766,Training/CV,Fold 2
+Neurotensin receptor type 1,P20789,N262R,4xes:A_N262R,Aqueous,-,Exposed (helix and strand),22665811,-2.2,MPTM_1758,Training/CV,Fold 10
+Neurotensin receptor type 1,P20789,M208V,4xes:A_M208V,Membrane,Receptors,-,22665811,-1.4,MPTM_1785,Training/CV,Fold 2
+Neurotensin receptor type 1,P20789,M121L,4xes:A_M121L,Membrane,Receptors,-,22665811,-1.5,MPTM_1784,Training/CV,Fold 2
+Neurotensin receptor type 1,P20789,L125V,4xes:A_L125V,Membrane,Receptors,-,22665811,-2.9,MPTM_1782,Training/CV,Fold 2
+Neurotensin receptor type 1,P20789,L119F,4xes:A_L119F,Membrane,Receptors,-,22665811,0.9,MPTM_1767,Training/CV,Fold 2
+Neurotensin receptor type 1,P20789,K263R,4xes:A_K263R,Aqueous,-,Exposed (helix and strand),22665811,-0.2,MPTM_1775,Training/CV,Fold 10
+Neurotensin receptor type 1,P20789,K235R,4xes:A_K235R,Membrane,Receptors,-,22665811,-0.2,MPTM_1778,Training/CV,Fold 2
+Neurotensin receptor type 1,P20789,I70V,4xes:A_I70V,Membrane,Receptors,-,22665811,-2.3,MPTM_1762,Training/CV,Fold 2
+Neurotensin receptor type 1,P20789,I260A,4xes:A_I260A,Aqueous,-,Buried (helix and strand),22665811,-2.2,MPTM_1768,Training/CV,Fold 7
+Neurotensin receptor type 1,P20789,I253A,4xes:A_I253A,Membrane,Receptors,-,22665811,3.4,MPTM_1764,Training/CV,Fold 2
+Neurotensin receptor type 1,P20789,I202S,4xes:A_I202S,Membrane,Receptors,-,22665811,-0.2,MPTM_1770,Training/CV,Fold 2
+Neurotensin receptor type 1,P20789,I202L,4xes:A_I202L,Membrane,Receptors,-,22665811,-3.0,MPTM_1769,Training/CV,Fold 2
+Neurotensin receptor type 1,P20789,H103A,4xee:A_H103A,Aqueous,-,Exposed (helix and strand),19422831,7.0,MPTM_954,Training/CV,Fold 10
+Neurotensin receptor type 1,P20789,F75L,4xes:A_F75L,Membrane,Receptors,-,22665811,-3.5,MPTM_1779,Training/CV,Fold 2
+Neurotensin receptor type 1,P20789,F358V,4xes:A_F358V,Membrane,Receptors,-,22665811,3.8,MPTM_1780,Training/CV,Fold 2
+Neurotensin receptor type 1,P20789,F358A,4xee:A_F358A,Membrane,Receptors,-,19422831;22665811,2.5,MPTM_955; MPTM_972,Training/CV,Fold 2
+Neurotensin receptor type 1,P20789,F342A,4xes:A_F342A,Aqueous,-,Exposed (helix and strand),22665811,-0.9,MPTM_1787,Training/CV,Fold 10
+Neurotensin receptor type 1,P20789,E124D,4xes:A_E124D,Membrane,Receptors,-,22665811,-3.0,MPTM_1753,Training/CV,Fold 2
+Neurotensin receptor type 1,P20789,D150E,4xes:A_D150E,Membrane,Receptors,-,22665811,-0.5,MPTM_1761,Training/CV,Fold 2
+Neurotensin receptor type 1,P20789,D113S,4xes:A_D113S,Membrane,Receptors,-,22665811,-1.4,MPTM_1760,Training/CV,Fold 2
+Neurotensin receptor type 1,P20789,D113A,4xes:A_D113A,Membrane,Receptors,-,22665811,-2.9,MPTM_1759,Training/CV,Fold 2
+Neurotensin receptor type 1,P20789,C332V,4xes:A_C332V,Membrane,Receptors,-,22665811,-2.3,MPTM_1757,Training/CV,Fold 2
+Neurotensin receptor type 1,P20789,C320L,4xes:A_C320L,Membrane,Receptors,-,22665811,-4.2,MPTM_1777,Training/CV,Fold 2
+Neurotensin receptor type 1,P20789,C172R,4xes:A_C172R,Aqueous,-,Exposed (helix and strand),22665811,-2.4,MPTM_1772,Training/CV,Fold 10
+Neurotensin receptor type 1,P20789,A86L,4xee:A_A86L,Membrane,Receptors,-,19422831;22665811,9.0,MPTM_971; MPTM_953,Training/CV,Fold 2
+Neurotensin receptor type 1,P20789,A201S,4xes:A_A201S,Membrane,Receptors,-,22665811,-3.8,MPTM_1783,Training/CV,Fold 2
+Neurotensin receptor type 1,P20789,A177H,4xes:A_A177H,Aqueous,-,Buried (helix and strand),22665811,-1.8,MPTM_1774,Training/CV,Fold 7
+Neurotensin receptor type 1,P20789,A110L,4xes:A_A110L,Membrane,Receptors,-,22665811,-2.6,MPTM_1763,Training/CV,Fold 2
+Glutamate receptor 3,P19492,K682A,3dln:A_K144A,Aqueous,-,Buried (helix and strand),22512472,-4.5,MPTM_426,Training/CV,Fold 6
+Glutamate receptor 3,P19492,D677A,3dln:A_D139A,Aqueous,-,Coil,22512472,-8.0,MPTM_425,Training/CV,Fold 8
+Cadherin-2,P15116,W272F,3q2w:A_W113F,Aqueous,-,Buried (helix and strand),21870846,1.0,MPTM_4250,Training/CV,Fold 8
+Cadherin-2,P15116,W161A,3q2w:A_W2A,Aqueous,-,Coil,21870846,0.0,MPTM_4249,Training/CV,Fold 4
+Cadherin-2,P15116,R173S,3q2w:A_R14S,Aqueous,-,Coil,25517179,-1.0,MPTM_4254,Training/CV,Fold 4
+Cadherin-2,P15116,R173E,3q2w:A_R14E,Aqueous,-,Coil,25517179,1.0,MPTM_4247,Training/CV,Fold 4
+Cadherin-2,P15116,R173A,3q2w:A_R14A,Aqueous,-,Coil,25517179,0.0,MPTM_4245,Training/CV,Fold 4
+Cadherin-2,P15116,E248A,3q2w:A_E89A,Aqueous,-,Exposed (helix and strand),21870846,-4.0,MPTM_4251,Training/CV,Fold 8
+Cadherin-2,P15116,D295A,3q2w:A_D136A,Aqueous,-,Coil,21366346,1.0,MPTM_4228,Training/CV,Fold 4
+Cadherin-2,P15116,D293A,3q2w:A_D134A,Aqueous,-,Coil,21366346,1.0,MPTM_4227,Training/CV,Fold 4
+Cadherin-2,P15116,D262A,3q2w:A_D103A,Aqueous,-,Coil,21366346,1.0,MPTM_4226,Training/CV,Fold 4
+Na+ and H+ antiporter  NhaA,P13738,K300R,1zcd:A_K300R,Membrane,Transporters and others,-,28330875,-3.5,MPTM_6376,Training/CV,Fold 8
+Na+ and H+ antiporter  NhaA,P13738,K300Q,4au5:A_K300Q,Membrane,Transporters and others,-,30409911,-12.7,MPTM_6410,Training/CV,Fold 8
+Na+ and H+ antiporter  NhaA,P13738,K300H,1zcd:A_K300H,Membrane,Transporters and others,-,28330875,-6.0,MPTM_6377,Training/CV,Fold 8
+Na+ and H+ antiporter  NhaA,P13738,D163N,4au5:A_D163N,Membrane,Transporters and others,-,30409911,-11.7,MPTM_6411,Training/CV,Fold 8
+Na+ and H+ antiporter  NhaA,P13738,D133K,4au5:A_D133K,Membrane,Transporters and others,-,29410365,-14.3,MPTM_4790; MPTM_4795,Training/CV,Fold 8
+Na+ and H+ antiporter  NhaA,P13738,D133A,4au5:A_D133A,Membrane,Transporters and others,-,29410365,-13.5,MPTM_4789; MPTM_4794,Training/CV,Fold 8
+Cystic fibrosis transmembrane conductance regulator,P13569,V510D,2pze:A_V510D,Aqueous,-,Coil,20687133,1.5,MPTM_931,Training/CV,Fold 3
+Cystic fibrosis transmembrane conductance regulator,P13569,S495P,6msm:A_S495P,Aqueous,-,Coil,29425673,5.8,MPTM_2316,Training/CV,Fold 3
+Cystic fibrosis transmembrane conductance regulator,P13569,S492P,6msm:A_S492P,Aqueous,-,Coil,29425673,1.1,MPTM_2314,Training/CV,Fold 3
+Cystic fibrosis transmembrane conductance regulator,P13569,R555K,6msm:A_R555K,Aqueous,-,Buried (helix and strand),29425673,3.6,MPTM_2324,Training/CV,Fold 4
+Cystic fibrosis transmembrane conductance regulator,P13569,R553Q,6msm:A_R553Q,Aqueous,-,Exposed (helix and strand),29425673,-1.0,MPTM_2323,Training/CV,Fold 6
+Cystic fibrosis transmembrane conductance regulator,P13569,R553M,6msm:A_R553M,Aqueous,-,Exposed (helix and strand),29425673,-1.1,MPTM_2322,Training/CV,Fold 6
+Cystic fibrosis transmembrane conductance regulator,P13569,Q637R,6msm:A_Q637R,Aqueous,-,Coil,29425673,0.1,MPTM_2325,Training/CV,Fold 3
+Cystic fibrosis transmembrane conductance regulator,P13569,M470V,2pzg:A_M470V,Aqueous,-,Buried (helix and strand),29425673,4.6,MPTM_2313,Training/CV,Fold 4
+Cystic fibrosis transmembrane conductance regulator,P13569,I539T,6msm:A_I539T,Aqueous,-,Coil,29425673,2.3,MPTM_2319,Training/CV,Fold 3
+Cystic fibrosis transmembrane conductance regulator,P13569,G551D,2pze:A_G551D,Aqueous,-,Buried (helix and strand),27734094,-0.4,MPTM_3168,Training/CV,Fold 4
+Cystic fibrosis transmembrane conductance regulator,P13569,G550E,6msm:A_G550E,Aqueous,-,Buried (helix and strand),29425673,0.8,MPTM_2320,Training/CV,Fold 4
+Cystic fibrosis transmembrane conductance regulator,P13569,F508Y,2bbo:A_F508Y,Aqueous,-,Coil,22265408,-1.8,MPTM_738,Training/CV,Fold 3
+Cystic fibrosis transmembrane conductance regulator,P13569,F508W,2bbo:A_F508W,Aqueous,-,Coil,22265408,-3.0,MPTM_742,Training/CV,Fold 3
+Cystic fibrosis transmembrane conductance regulator,P13569,F508S,2bbo:A_F508S,Aqueous,-,Coil,22265408,-1.8,MPTM_736,Training/CV,Fold 3
+Cystic fibrosis transmembrane conductance regulator,P13569,F508R,2bbo:A_F508R,Aqueous,-,Coil,22265408,-4.2,MPTM_744,Training/CV,Fold 3
+Cystic fibrosis transmembrane conductance regulator,P13569,F508Q,2bbo:A_F508Q,Aqueous,-,Coil,22265408,-1.6,MPTM_739,Training/CV,Fold 3
+Cystic fibrosis transmembrane conductance regulator,P13569,F508N,2bbo:A_F508N,Aqueous,-,Coil,22265408,1.2,MPTM_741,Training/CV,Fold 3
+Cystic fibrosis transmembrane conductance regulator,P13569,F508M,2bbo:A_F508M,Aqueous,-,Coil,22265408,0.2,MPTM_740,Training/CV,Fold 3
+Cystic fibrosis transmembrane conductance regulator,P13569,F508K,2bbo:A_F508K,Aqueous,-,Coil,22265408,-5.5,MPTM_745,Training/CV,Fold 3
+Cystic fibrosis transmembrane conductance regulator,P13569,F508G,2bbo:A_F508G,Aqueous,-,Coil,22265408,-3.1,MPTM_743,Training/CV,Fold 3
+Cystic fibrosis transmembrane conductance regulator,P13569,F508E,2bbo:A_F508E,Aqueous,-,Coil,22265408,-12.8,MPTM_747,Training/CV,Fold 3
+Cystic fibrosis transmembrane conductance regulator,P13569,F508D,2bbo:A_F508D,Aqueous,-,Coil,22265408,-1.6,MPTM_746,Training/CV,Fold 3
+Cystic fibrosis transmembrane conductance regulator,P13569,F508C,2bbo:A_F508C,Aqueous,-,Coil,22265408,-1.0,MPTM_737,Training/CV,Fold 3
+Cystic fibrosis transmembrane conductance regulator,P13569,F494N,2bbo:A_F494N,Aqueous,-,Coil,22265408,2.0,MPTM_725,Training/CV,Fold 3
+Cystic fibrosis transmembrane conductance regulator,P13569,C592L,2pze:A_C592L,Aqueous,-,Exposed (helix and strand),29903914,0.8,MPTM_6392,Training/CV,Fold 6
+Cystic fibrosis transmembrane conductance regulator,P13569,C590L,2pze:A_C590L,Aqueous,-,Buried (helix and strand),29903914,-3.7,MPTM_6404,Training/CV,Fold 4
+Cystic fibrosis transmembrane conductance regulator,P13569,C524T,2pze:A_C524T,Aqueous,-,Coil,29903914,-1.3,MPTM_6403,Training/CV,Fold 3
+Cystic fibrosis transmembrane conductance regulator,P13569,C491S,2pze:A_C491S,Aqueous,-,Buried (helix and strand),29903914,-3.3,MPTM_6399,Training/CV,Fold 4
+Cystic fibrosis transmembrane conductance regulator,P13569,C491R,2pze:A_C491R,Aqueous,-,Buried (helix and strand),29903914,-3.5,MPTM_6402,Training/CV,Fold 4
+Cystic fibrosis transmembrane conductance regulator,P13569,C491Q,2pze:A_C491Q,Aqueous,-,Buried (helix and strand),29903914,-5.3,MPTM_6400,Training/CV,Fold 4
+Cystic fibrosis transmembrane conductance regulator,P13569,C491L,2pze:A_C491L,Aqueous,-,Buried (helix and strand),29903914,-3.3,MPTM_6401,Training/CV,Fold 4
+Cystic fibrosis transmembrane conductance regulator,P13569,A534P,6msm:A_A534P,Aqueous,-,Coil,29425673,1.0,MPTM_2318,Training/CV,Fold 3
+Listeriolysin O,P13128,H311S,4cdb:A_H311S,Aqueous,-,Coil,25854672,-2.9,MPTM_6272; MPTM_6280,Training/CV,Fold 9
+Listeriolysin O,P13128,H311L,4cdb:A_H311L,Aqueous,-,Coil,25854672,-0.56,MPTM_6262; MPTM_6266; MPTM_6270; MPTM_6274; MPTM_6278,Training/CV,Fold 9
+Listeriolysin O,P13128,H311A,4cdb:A_H311A,Aqueous,-,Coil,25854672,-2.57,MPTM_6275; MPTM_6279,Training/CV,Fold 9
+Ryanodine receptor 1,P11716,V219I,4i8m:A_V219I,Aqueous,-,Buried (helix and strand),23422674,-1.5,MPTM_452,Training/CV,Fold 3
+Ryanodine receptor 1,P11716,T2787S,5gky:A_T2787S,Aqueous,-,Buried (helix and strand),22705209,-6.4,MPTM_462,Training/CV,Fold 3
+Ryanodine receptor 1,P11716,S2776M,5gky:A_S2776M,Aqueous,-,Buried (helix and strand),22705209,-2.9,MPTM_460,Training/CV,Fold 3
+Ryanodine receptor 1,P11716,R402G,4i37:A_R402G,Aqueous,-,Buried (helix and strand),23422674,-5.2,MPTM_448,Training/CV,Fold 3
+Ryanodine receptor 1,P11716,L2785V,5gky:A_L2785V,Aqueous,-,Buried (helix and strand),22705209,-5.6,MPTM_461,Training/CV,Fold 3
+Ryanodine receptor 1,P11716,I404M,4i2s:A_I404M,Aqueous,-,Buried (helix and strand),23422674,-1.7,MPTM_451,Training/CV,Fold 3
+Ryanodine receptor 1,P11716,G249R,4i1e:A_G249R,Aqueous,-,Exposed (helix and strand),23422674,0.6,MPTM_454,Training/CV,Fold 9
+Ryanodine receptor 1,P11716,E2880K,5gky:A_E2880K,Aqueous,-,Buried (helix and strand),22705209,-4.5,MPTM_466,Training/CV,Fold 3
+Ryanodine receptor 1,P11716,E2764K,5gky:A_E2764K,Aqueous,-,Buried (helix and strand),22705209,-5.4,MPTM_459,Training/CV,Fold 3
+Ryanodine receptor 1,P11716,C36R,4i0y:A_C36R,Aqueous,-,Buried (helix and strand),23422674,-9.3,MPTM_446,Training/CV,Fold 3
+Pulmonary surfactant-associated protein C,P11686,L188Q,2yad:A_L188Q,Aqueous,-,Buried (helix and strand),26041777,1.6,MPTM_6199,Training/CV,Fold 10
+Perforin-1,P10820,D429A,3nsj:A_D429A,Aqueous,-,Coil,24070258,0.5,MPTM_6344,Training/CV,Fold 5
+Inclusion membrane protein A,P0CI27,G144A,6e6a:B_G144A,Aqueous,-,Exposed (helix and strand),31227715,0.5,MPTM_6248,Training/CV,Fold 6
+C4-dicarboxylic acid transporter DauA,P0AFR2,T478Q,3ny7:A_T469Q,Aqueous,-,Exposed (helix and strand),26635355,-4.7,MPTM_3460,Training/CV,Fold 8
+C4-dicarboxylic acid transporter DauA,P0AFR2,R553A,3ny7:A_R544A,Aqueous,-,Exposed (helix and strand),26635355,-6.0,MPTM_3465,Training/CV,Fold 8
+C4-dicarboxylic acid transporter DauA,P0AFR2,N551M,3ny7:A_N542M,Aqueous,-,Coil,26635355,-10.0,MPTM_3464,Training/CV,Fold 10
+C4-dicarboxylic acid transporter DauA,P0AFR2,L515S,3ny7:A_L506S,Aqueous,-,Coil,26635355,-10.7,MPTM_3463,Training/CV,Fold 10
+C4-dicarboxylic acid transporter DauA,P0AFR2,L468N,3ny7:A_L459N,Aqueous,-,Buried (helix and strand),26635355,-11.4,MPTM_3457,Training/CV,Fold 9
+C4-dicarboxylic acid transporter DauA,P0AFR2,L468A,3ny7:A_L459A,Aqueous,-,Buried (helix and strand),26635355,-4.7,MPTM_3458,Training/CV,Fold 9
+C4-dicarboxylic acid transporter DauA,P0AFR2,K493N,3ny7:A_K484N,Aqueous,-,Exposed (helix and strand),26635355,-6.7,MPTM_3462,Training/CV,Fold 8
+C4-dicarboxylic acid transporter DauA,P0AFR2,D479Y,3ny7:A_D470Y,Aqueous,-,Exposed (helix and strand),26635355,-4.7,MPTM_3461,Training/CV,Fold 8
+C4-dicarboxylic acid transporter DauA,P0AFR2,A555V,3ny7:A_A546V,Aqueous,-,Buried (helix and strand),26635355,-4.0,MPTM_3467,Training/CV,Fold 9
+C4-dicarboxylic acid transporter DauA,P0AFR2,A554N,3ny7:A_A545N,Aqueous,-,Exposed (helix and strand),26635355,-7.4,MPTM_3466,Training/CV,Fold 8
+C4-dicarboxylic acid transporter DauA,P0AFR2,A472K,3ny7:A_A463K,Aqueous,-,Exposed (helix and strand),26635355,-2.7,MPTM_3459,Training/CV,Fold 8
+Outer membrane protein X,P0A917,T67N,1qj8:A_T44N,Membrane,Transporters and others,-,31374213,-27.78,MPTM_5990,Training/CV,Fold 7
+Outer membrane protein X,P0A917,R95N,1qj8:A_R72N,Aqueous,-,Buried (helix and strand),31374213,-19.27,MPTM_5985,Training/CV,Fold 5
+Outer membrane protein X,P0A917,R156N,1qj8:A_R133N,Aqueous,-,Coil,31374213,-3.62,MPTM_6008,Training/CV,Fold 7
+Outer membrane protein X,P0A917,R154N,1qj8:A_R131N,Membrane,Transporters and others,-,31374213,-7.19,MPTM_6007,Training/CV,Fold 7
+Outer membrane protein X,P0A917,E70N,1qj8:A_E47N,Membrane,Transporters and others,-,31374213,-3.15,MPTM_5995,Training/CV,Fold 7
+Outer membrane protein X,P0A917,E55N,1qj8:A_E32N,Aqueous,-,Coil,31374213,-3.08,MPTM_5993,Training/CV,Fold 7
+Outer membrane protein X,P0A917,E142N,1qj8:A_E119N,Aqueous,-,Coil,31374213,-1.18,MPTM_6006,Training/CV,Fold 7
+Outer membrane protein X,P0A917,D98N,1qj8:A_D75N,Aqueous,-,Coil,31374213,-2.48,MPTM_6000,Training/CV,Fold 7
+Outer membrane protein X,P0A917,D79N,1qj8:A_D56N,Aqueous,-,Coil,31374213,-2.49,MPTM_5998,Training/CV,Fold 7
+Outer membrane protein X,P0A917,D56N,1qj8:A_D33N,Aqueous,-,Coil,31374213,-1.96,MPTM_5994,Training/CV,Fold 7
+Outer membrane protein X,P0A917,D36N,1qj8:A_D13N,Membrane,Transporters and others,-,31374213,4.57,MPTM_5991,Training/CV,Fold 7
+Outer membrane protein X,P0A917,D159N,1qj8:A_D136N,Membrane,Transporters and others,-,31374213,-1.49,MPTM_6009,Training/CV,Fold 7
+pH-gated potassium channel KcsA,P0A334,Y78F,1jvm:A_Y78F,Membrane,Transporters and others,-,10781810,-11.1,MPTM_605,Training/CV,Fold 9
+pH-gated potassium channel KcsA,P0A334,L81C,1jvm:A_L81C,Aqueous,-,Coil,10781810,-9.1,MPTM_606,Training/CV,Fold 4
+pH-gated potassium channel KcsA,P0A334,G77A,1jvm:A_G77A,Membrane,Transporters and others,-,10781810,-12.6,MPTM_604,Training/CV,Fold 9
+Cadherin-1,P09803,Q257L,1ff5:A_Q101L,Aqueous,-,Coil,24559158,-4.0,MPTM_4272,Training/CV,Fold 4
+Cadherin-1,P09803,K170E,1ff5:A_K14E,Aqueous,-,Coil,24559158,-3.6,MPTM_4271,Training/CV,Fold 4
+Cadherin-1,P09803,E225A,1ff5:A_E69A,Aqueous,-,Coil,24559158,-17.2,MPTM_4274,Training/CV,Fold 4
+Cadherin-1,P09803,D292N,1ff5:A_D136N,Aqueous,-,Coil,24559158,-18.7,MPTM_4276,Training/CV,Fold 4
+Cadherin-1,P09803,D256A,1ff5:A_D100A,Aqueous,-,Coil,24559158,-16.9,MPTM_4275,Training/CV,Fold 4
+Rhomboid protease GlpG,P09391,Y224A,5f5g:A_Y224A,Aqueous,-,Coil,22797666,-0.6,MPTM_4000,Training/CV,Fold 2
+Rhomboid protease GlpG,P09391,Y210F,3b45:A_Y210F,Membrane,Transporters and others,-,22797666,-10.9,MPTM_3992,Training/CV,Fold 2
+Rhomboid protease GlpG,P09391,Y205F,3b45:A_Y205F,Membrane,Transporters and others,-,26805573,0.2,MPTM_4150,Training/CV,Fold 2
+Rhomboid protease GlpG,P09391,Y205A,5mt6:A_Y205A,Membrane,Transporters and others,-,22797666,1.8,MPTM_3983,Training/CV,Fold 2
+Rhomboid protease GlpG,P09391,Y160F,5f5g:A_Y160F,Membrane,Transporters and others,-,22797666,-2.8,MPTM_3935,Training/CV,Fold 2
+Rhomboid protease GlpG,P09391,Y138F,3b45:A_Y138F,Aqueous,-,Exposed (helix and strand),22797666,-6.8,MPTM_3911,Training/CV,Fold 7
+Rhomboid protease GlpG,P09391,W236G,5f5g:A_W236G,Membrane,Transporters and others,-,22797666,-0.8,MPTM_4005,Training/CV,Fold 2
+Rhomboid protease GlpG,P09391,W196A,5f5g:A_W196A,Aqueous,-,Coil,22797666,-2.6,MPTM_3967,Training/CV,Fold 2
+Rhomboid protease GlpG,P09391,W158F,3b45:A_W158F,Membrane,Transporters and others,-,22797666,-3.0,MPTM_3934,Training/CV,Fold 2
+Rhomboid protease GlpG,P09391,W157F,5f5g:A_W157F,Membrane,Transporters and others,-,22797666,-0.6,MPTM_3932,Training/CV,Fold 2
+Rhomboid protease GlpG,P09391,W136Y,5f5g:A_W136Y,Aqueous,-,Coil,22797666,-4.3,MPTM_3908,Training/CV,Fold 2
+Rhomboid protease GlpG,P09391,W136H,5f5g:A_W136H,Aqueous,-,Coil,22797666,1.4,MPTM_3907,Training/CV,Fold 2
+Rhomboid protease GlpG,P09391,W136F,5f5g:A_W136F,Aqueous,-,Coil,22797666,-11.0,MPTM_3906,Training/CV,Fold 2
+Rhomboid protease GlpG,P09391,W136A,5f5g:A_W136A,Aqueous,-,Coil,22797666,-12.2,MPTM_3905,Training/CV,Fold 2
+Rhomboid protease GlpG,P09391,V204A,5f5g:A_V204A,Membrane,Transporters and others,-,22797666,-8.9,MPTM_3981,Training/CV,Fold 2
+Rhomboid protease GlpG,P09391,V203A,5f5g:A_V203A,Membrane,Transporters and others,-,22797666,-10.9,MPTM_3980,Training/CV,Fold 2
+Rhomboid protease GlpG,P09391,T97A,5f5g:A_T97A,Membrane,Transporters and others,-,22797666,-12.0,MPTM_3887,Training/CV,Fold 2
+Rhomboid protease GlpG,P09391,T178A,3b45:A_T178A,Membrane,Transporters and others,-,22797666,-5.9,MPTM_3955,Training/CV,Fold 2
+Rhomboid protease GlpG,P09391,S201T,3b45:A_S201T,Membrane,Transporters and others,-,22797666,-3.4,MPTM_3976,Training/CV,Fold 2
+Rhomboid protease GlpG,P09391,S201C,5f5g:A_S201C,Membrane,Transporters and others,-,22797666,-6.0,MPTM_3975,Training/CV,Fold 2
+Rhomboid protease GlpG,P09391,S201A,5f5g:A_S201A,Membrane,Transporters and others,-,22797666,-6.2,MPTM_3974,Training/CV,Fold 2
+Rhomboid protease GlpG,P09391,S193A,5f5g:A_S193A,Aqueous,-,Exposed (helix and strand),22797666,-2.1,MPTM_3964,Training/CV,Fold 7
+Rhomboid protease GlpG,P09391,S185A,5f5g:A_S185A,Membrane,Transporters and others,-,22797666,-2.4,MPTM_3960,Training/CV,Fold 2
+Rhomboid protease GlpG,P09391,S181A,3b45:A_S181A,Membrane,Transporters and others,-,22797666,0.1,MPTM_3956,Training/CV,Fold 2
+Rhomboid protease GlpG,P09391,S171A,5f5g:A_S171A,Membrane,Transporters and others,-,22797666,-5.8,MPTM_3949,Training/CV,Fold 2
+Rhomboid protease GlpG,P09391,S147A,5f5g:A_S147A,Aqueous,-,Coil,22797666,-11.0,MPTM_3922,Training/CV,Fold 2
+Rhomboid protease GlpG,P09391,R214A,5f5g:A_R214A,Membrane,Transporters and others,-,22797666,-7.1,MPTM_3994,Training/CV,Fold 2
+Rhomboid protease GlpG,P09391,R168A,5f5g:A_R168A,Aqueous,-,Exposed (helix and strand),22797666,-1.6,MPTM_3943,Training/CV,Fold 7
+Rhomboid protease GlpG,P09391,R137K,5f5g:A_R137K,Membrane,Transporters and others,-,22797666,-16.2,MPTM_3910,Training/CV,Fold 2
+Rhomboid protease GlpG,P09391,R137A,5f5g:A_R137A,Membrane,Transporters and others,-,22797666,-20.4,MPTM_3909,Training/CV,Fold 2
+Rhomboid protease GlpG,P09391,Q226A,3b45:A_Q226A,Aqueous,-,Coil,22797666,-4.9,MPTM_4001,Training/CV,Fold 2
+Rhomboid protease GlpG,P09391,Q190A,5f5g:A_Q190A,Aqueous,-,Exposed (helix and strand),22797666,1.4,MPTM_3963,Training/CV,Fold 7
+Rhomboid protease GlpG,P09391,Q112A,5f5g:A_Q112A,Aqueous,-,Exposed (helix and strand),22797666,-4.7,MPTM_3896,Training/CV,Fold 7
+Rhomboid protease GlpG,P09391,P95A,5f5g:A_P95A,Membrane,Transporters and others,-,22797666,-5.8,MPTM_3885,Training/CV,Fold 2
+Rhomboid protease GlpG,P09391,P219A,5f5g:A_P219A,Aqueous,-,Exposed (helix and strand),22797666,-4.5,MPTM_3998,Training/CV,Fold 7
+Rhomboid protease GlpG,P09391,P195A,5f5g:A_P195A,Aqueous,-,Coil,22797666,-3.2,MPTM_3966,Training/CV,Fold 2
+Rhomboid protease GlpG,P09391,N154A,3b45:A_N154A,Membrane,Transporters and others,-,22797666,-6.1,MPTM_3930,Training/CV,Fold 2
+Rhomboid protease GlpG,P09391,M249A,5f5g:A_M249A,Aqueous,-,Coil,22797666,0.5,MPTM_4012,Training/CV,Fold 2
+Rhomboid protease GlpG,P09391,M247A,5f5g:A_M247A,Aqueous,-,Coil,22797666,-2.1,MPTM_4011,Training/CV,Fold 2
+Rhomboid protease GlpG,P09391,M144A,5f5g:A_M144A,Aqueous,-,Coil,22797666,-6.9,MPTM_3916,Training/CV,Fold 2
+Rhomboid protease GlpG,P09391,M120A,5f5g:A_M120A,Membrane,Transporters and others,-,22797666,-3.0,MPTM_3897,Training/CV,Fold 2
+Rhomboid protease GlpG,P09391,L262A,5f5g:A_L262A,Membrane,Transporters and others,-,22797666,-2.6,MPTM_4022,Training/CV,Fold 2
+Rhomboid protease GlpG,P09391,L258A,5f5g:A_L258A,Membrane,Transporters and others,-,22797666,-5.6,MPTM_4018,Training/CV,Fold 2
+Rhomboid protease GlpG,P09391,L244A,5f5g:A_L244A,Membrane,Transporters and others,-,22797666,-2.1,MPTM_4009,Training/CV,Fold 2
+Rhomboid protease GlpG,P09391,L207A,3b45:A_L207A,Membrane,Transporters and others,-,22797666,-17.7,MPTM_3989,Training/CV,Fold 2
+Rhomboid protease GlpG,P09391,L200S,5f5g:A_L200S,Membrane,Transporters and others,-,22797666,-13.7,MPTM_3973,Training/CV,Fold 2
+Rhomboid protease GlpG,P09391,L200A,5f5g:A_L200A,Membrane,Transporters and others,-,22797666,-11.6,MPTM_3972,Training/CV,Fold 2
+Rhomboid protease GlpG,P09391,L183A,5f5g:A_L183A,Membrane,Transporters and others,-,22797666,0.8,MPTM_3957,Training/CV,Fold 2
+Rhomboid protease GlpG,P09391,L174A,3b45:A_L174A,Membrane,Transporters and others,-,22797666,-16.3,MPTM_3954,Training/CV,Fold 2
+Rhomboid protease GlpG,P09391,L169A,5f5g:A_L169A,Aqueous,-,Exposed (helix and strand),22797666,-3.5,MPTM_3946,Training/CV,Fold 7
+Rhomboid protease GlpG,P09391,L155A,5f5g:A_L155A,Membrane,Transporters and others,-,22797666,-8.6,MPTM_3931,Training/CV,Fold 2
+Rhomboid protease GlpG,P09391,L143A,3b44:A_L143A,Membrane,Transporters and others,-,22797666,-12.3,MPTM_3915,Training/CV,Fold 2
+Rhomboid protease GlpG,P09391,L123A,5f5g:A_L123A,Membrane,Transporters and others,-,22797666,-9.3,MPTM_3900,Training/CV,Fold 2
+Rhomboid protease GlpG,P09391,K173A,5f5g:A_K173A,Membrane,Transporters and others,-,22797666,-10.4,MPTM_3950,Training/CV,Fold 2
+Rhomboid protease GlpG,P09391,I237A,5f5g:A_I237A,Membrane,Transporters and others,-,22797666,1.1,MPTM_4006,Training/CV,Fold 2
+Rhomboid protease GlpG,P09391,I230A,5f5g:A_I230A,Membrane,Transporters and others,-,22797666,0.7,MPTM_4003,Training/CV,Fold 2
+Rhomboid protease GlpG,P09391,I151A,5f5g:A_I151A,Membrane,Transporters and others,-,22797666,-3.6,MPTM_3924,Training/CV,Fold 2
+Rhomboid protease GlpG,P09391,H254K,5f5g:A_H254K,Membrane,Transporters and others,-,22797666,-2.6,MPTM_4015,Training/CV,Fold 2
+Rhomboid protease GlpG,P09391,H254A,5f5g:A_H254A,Membrane,Transporters and others,-,22797666,1.0,MPTM_4014,Training/CV,Fold 2
+Rhomboid protease GlpG,P09391,H150A,5f5g:A_H150A,Membrane,Transporters and others,-,22797666,-5.9,MPTM_3923,Training/CV,Fold 2
+Rhomboid protease GlpG,P09391,H145Q,5f5g:A_H145Q,Aqueous,-,Coil,22797666,-19.0,MPTM_3919,Training/CV,Fold 2
+Rhomboid protease GlpG,P09391,H145F,5f5g:A_H145F,Aqueous,-,Coil,22797666,-19.6,MPTM_3918,Training/CV,Fold 2
+Rhomboid protease GlpG,P09391,H145A,5f5g:A_H145A,Aqueous,-,Coil,22797666,-22.2,MPTM_3917,Training/CV,Fold 2
+Rhomboid protease GlpG,P09391,H141A,5f5g:A_H141A,Membrane,Transporters and others,-,22797666,-18.9,MPTM_3914,Training/CV,Fold 2
+Rhomboid protease GlpG,P09391,G261V,5f5g:A_G261V,Membrane,Transporters and others,-,22797666,-28.1,MPTM_4021,Training/CV,Fold 2
+Rhomboid protease GlpG,P09391,G261A,3b45:A_G261A,Membrane,Transporters and others,-,22797666,-20.0,MPTM_4020,Training/CV,Fold 2
+Rhomboid protease GlpG,P09391,G257V,5f5g:A_G257V,Membrane,Transporters and others,-,22797666,-14.4,MPTM_4017,Training/CV,Fold 2
+Rhomboid protease GlpG,P09391,G257A,5f5g:A_G257A,Membrane,Transporters and others,-,22797666,-5.9,MPTM_4016,Training/CV,Fold 2
+Rhomboid protease GlpG,P09391,G240A,5f5g:A_G240A,Membrane,Transporters and others,-,22797666,-1.8,MPTM_4007,Training/CV,Fold 2
+Rhomboid protease GlpG,P09391,G209V,5f5g:A_G209V,Membrane,Transporters and others,-,22797666,-8.1,MPTM_3991,Training/CV,Fold 2
+Rhomboid protease GlpG,P09391,G209A,5f5g:A_G209A,Membrane,Transporters and others,-,22797666,-1.7,MPTM_3990,Training/CV,Fold 2
+Rhomboid protease GlpG,P09391,G202V,5f5g:A_G202V,Membrane,Transporters and others,-,22797666,-15.7,MPTM_3979,Training/CV,Fold 2
+Rhomboid protease GlpG,P09391,G202A,5f5g:A_G202A,Membrane,Transporters and others,-,22797666,-5.9,MPTM_3978,Training/CV,Fold 2
+Rhomboid protease GlpG,P09391,G199V,5f5g:A_G199V,Membrane,Transporters and others,-,22797666,-17.7,MPTM_3971,Training/CV,Fold 2
+Rhomboid protease GlpG,P09391,G198V,5f5g:A_G198V,Aqueous,-,Coil,22797666,-6.5,MPTM_3970,Training/CV,Fold 2
+Rhomboid protease GlpG,P09391,G194V,5f5g:A_G194V,Aqueous,-,Coil,22797666,-11.2,MPTM_3965,Training/CV,Fold 2
+Rhomboid protease GlpG,P09391,G186V,5f5g:A_G186V,Membrane,Transporters and others,-,22797666,-15.9,MPTM_3961,Training/CV,Fold 2
+Rhomboid protease GlpG,P09391,G170V,5f5g:A_G170V,Aqueous,-,Coil,22797666,-14.0,MPTM_3948,Training/CV,Fold 2
+Rhomboid protease GlpG,P09391,G170A,5f5g:A_G170A,Aqueous,-,Coil,22797666,-11.1,MPTM_3947,Training/CV,Fold 2
+Rhomboid protease GlpG,P09391,G162V,5f5g:A_G162V,Membrane,Transporters and others,-,22797666,-24.6,MPTM_3937,Training/CV,Fold 2
+Rhomboid protease GlpG,P09391,G162A,5f5g:A_G162A,Membrane,Transporters and others,-,22797666,0.8,MPTM_3936,Training/CV,Fold 2
+Rhomboid protease GlpG,P09391,F245A,5f5g:A_F245A,Membrane,Transporters and others,-,22797666,-2.2,MPTM_4010,Training/CV,Fold 2
+Rhomboid protease GlpG,P09391,F197V,5f5g:A_F197V,Aqueous,-,Coil,22797666,-9.2,MPTM_3969,Training/CV,Fold 2
+Rhomboid protease GlpG,P09391,F197A,5f5g:A_F197A,Aqueous,-,Coil,22797666,-6.5,MPTM_3968,Training/CV,Fold 2
+Rhomboid protease GlpG,P09391,F153A,5f5g:A_F153A,Membrane,Transporters and others,-,22797666,-1.2,MPTM_3926,Training/CV,Fold 2
+Rhomboid protease GlpG,P09391,F146A,5f5g:A_F146A,Aqueous,-,Coil,22797666,-5.5,MPTM_3921,Training/CV,Fold 2
+Rhomboid protease GlpG,P09391,F139A,5f5g:A_F139A,Membrane,Transporters and others,-,22797666,-7.8,MPTM_3912,Training/CV,Fold 2
+Rhomboid protease GlpG,P09391,E166A,5f5g:A_E166A,Membrane,Transporters and others,-,22797666,-21.3,MPTM_3941,Training/CV,Fold 2
+Rhomboid protease GlpG,P09391,E134A,5f5g:A_E134A,Aqueous,-,Coil,22797666,-7.8,MPTM_3903,Training/CV,Fold 2
+Rhomboid protease GlpG,P09391,D268A,3b45:A_D268A,Membrane,Transporters and others,-,22797666,-16.9,MPTM_4025,Training/CV,Fold 2
+Rhomboid protease GlpG,P09391,D243A,5f5g:A_D243A,Membrane,Transporters and others,-,22797666,-6.2,MPTM_4008,Training/CV,Fold 2
+Rhomboid protease GlpG,P09391,D218A,5f5g:A_D218A,Aqueous,-,Coil,22797666,-7.4,MPTM_3996,Training/CV,Fold 2
+Rhomboid protease GlpG,P09391,C104V,5f5g:A_C104V,Membrane,Transporters and others,-,22797666,-4.1,MPTM_3894,Training/CV,Fold 2
+Rhomboid protease GlpG,P09391,C104A,3b45:A_C104A,Membrane,Transporters and others,-,22797666,-3.8,MPTM_3893,Training/CV,Fold 2
+Rhomboid protease GlpG,P09391,A265V,3b45:A_A265V,Membrane,Transporters and others,-,22797666,-16.5,MPTM_4024,Training/CV,Fold 2
+Rhomboid protease GlpG,P09391,A265G,5f5g:A_A265G,Membrane,Transporters and others,-,22797666,0.1,MPTM_4023,Training/CV,Fold 2
+Rhomboid protease GlpG,P09391,A253V,3b45:A_A253V,Membrane,Transporters and others,-,22797666,-7.7,MPTM_4013,Training/CV,Fold 2
+Rhomboid protease GlpG,P09391,A206V,5f5g:A_A206V,Membrane,Transporters and others,-,22797666,-17.4,MPTM_3987,Training/CV,Fold 2
+Rhomboid protease GlpG,P09391,A206G,5f5g:A_A206G,Membrane,Transporters and others,-,22797666,-5.3,MPTM_3986,Training/CV,Fold 2
+Proto-oncogene tyrosine-protein kinase receptor Ret,P07949,R912A,4ckj:A_R912A,Aqueous,-,Coil,24560924,-0.33,MPTM_610,Training/CV,Fold 7
+Proto-oncogene tyrosine-protein kinase receptor Ret,P07949,M918T,4cki:A_M918T,Aqueous,-,Coil,24560924,-3.45,MPTM_608,Training/CV,Fold 7
+Proto-oncogene tyrosine-protein kinase receptor Ret,P07949,E734A,4ckj:A_E734A,Aqueous,-,Coil,24560924,0.67,MPTM_609,Training/CV,Fold 7
+Beta-1 adrenergic receptor,P07700,Y343L,2y00:A_Y343L,Membrane,Receptors,-,21907721,6.6,MPTM_1906,Training/CV,Fold 1
+Beta-1 adrenergic receptor,P07700,W323L,2vt4:A_W323L,Membrane,Receptors,-,21907721,-0.4,MPTM_1900,Training/CV,Fold 1
+Beta-1 adrenergic receptor,P07700,V95C,2vt4:A_V95C,Membrane,Receptors,-,21907721,-3.97,MPTM_1858,Training/CV,Fold 1
+Beta-1 adrenergic receptor,P07700,V52C,2vt4:A_V52C,Membrane,Receptors,-,21907721,1.31,MPTM_1855,Training/CV,Fold 1
+Beta-1 adrenergic receptor,P07700,V326L,2vt4:A_V326L,Membrane,Receptors,-,21907721,-2.4,MPTM_1901,Training/CV,Fold 1
+Beta-1 adrenergic receptor,P07700,V202L,2vt4:A_V202L,Membrane,Receptors,-,21907721,-1.61,MPTM_1891,Training/CV,Fold 1
+Beta-1 adrenergic receptor,P07700,V165L,2vt4:A_V165L,Membrane,Receptors,-,21907721,-1.8,MPTM_1888,Training/CV,Fold 1
+Beta-1 adrenergic receptor,P07700,V129I,4bvn:A_V129I,Membrane,Receptors,-,26840483,-0.3,MPTM_4841,Training/CV,Fold 1
+Beta-1 adrenergic receptor,P07700,V103C,2vt4:A_V103C,Membrane,Receptors,-,21907721,-6.24,MPTM_1860,Training/CV,Fold 1
+Beta-1 adrenergic receptor,P07700,T277L,6h7n:A_T277L,Aqueous,-,Coil,21907721,-0.3,MPTM_1898,Training/CV,Fold 9
+Beta-1 adrenergic receptor,P07700,S336A,4bvn:A_S336A,Membrane,Receptors,-,24663151,-5.7,MPTM_435,Training/CV,Fold 1
+Beta-1 adrenergic receptor,P07700,S278L,6h7n:A_S278L,Aqueous,-,Coil,21907721,-2.7,MPTM_1899,Training/CV,Fold 9
+Beta-1 adrenergic receptor,P07700,S128A,4bvn:A_S128A,Membrane,Receptors,-,24663151,-6.4,MPTM_433,Training/CV,Fold 1
+Beta-1 adrenergic receptor,P07700,R229L,2vt4:A_R229L,Aqueous,-,Exposed (helix and strand),21907721,2.7,MPTM_1894,Training/CV,Fold 4
+Beta-1 adrenergic receptor,P07700,R139L,2vt4:A_R139L,Aqueous,-,Exposed (helix and strand),21907721,1.3,MPTM_1886,Training/CV,Fold 4
+Beta-1 adrenergic receptor,P07700,Q237L,2vt4:A_Q237L,Aqueous,-,Coil,21907721,1.9,MPTM_1896,Training/CV,Fold 9
+Beta-1 adrenergic receptor,P07700,Q188L,2vt4:A_Q188L,Membrane,Receptors,-,21907721,2.5,MPTM_1890,Training/CV,Fold 1
+Beta-1 adrenergic receptor,P07700,N339A,4bvn:A_N339A,Membrane,Receptors,-,24663151,-9.3,MPTM_436,Training/CV,Fold 1
+Beta-1 adrenergic receptor,P07700,N335A,4bvn:A_N335A,Membrane,Receptors,-,24663151,-9.4,MPTM_434,Training/CV,Fold 1
+Beta-1 adrenergic receptor,P07700,M48C,2vt4:A_M48C,Membrane,Receptors,-,21907721,-2.41,MPTM_1854,Training/CV,Fold 1
+Beta-1 adrenergic receptor,P07700,M44C,2vt4:A_M44C,Membrane,Receptors,-,21907721,-3.22,MPTM_1853,Training/CV,Fold 1
+Beta-1 adrenergic receptor,P07700,L83A,4bvn:A_L83A,Membrane,Receptors,-,24663151,-8.2,MPTM_430,Training/CV,Fold 1
+Beta-1 adrenergic receptor,P07700,L61C,2vt4:A_L61C,Membrane,Receptors,-,21907721,-4.21,MPTM_1856,Training/CV,Fold 1
+Beta-1 adrenergic receptor,P07700,L36A,4bvn:A_L36A,Aqueous,-,Coil,21907721,0.8,MPTM_1882,Training/CV,Fold 9
+Beta-1 adrenergic receptor,P07700,L343Y,4bvn:A_L343Y,Membrane,Receptors,-,26840483,-4.2,MPTM_4843,Training/CV,Fold 1
+Beta-1 adrenergic receptor,P07700,L289H,2vt4:A_L289H,Aqueous,-,Buried (helix and strand),21907721,-6.9,MPTM_1933,Training/CV,Fold 10
+Beta-1 adrenergic receptor,P07700,L221A,2vt4:A_L221A,Membrane,Receptors,-,21907721,0.66,MPTM_1893,Training/CV,Fold 1
+Beta-1 adrenergic receptor,P07700,K287H,2vt4:A_K287H,Aqueous,-,Exposed (helix and strand),21907721,-2.5,MPTM_1931,Training/CV,Fold 4
+Beta-1 adrenergic receptor,P07700,K240L,4bvn:A_K240L,Aqueous,-,Coil,21907721,-0.6,MPTM_1897,Training/CV,Fold 9
+Beta-1 adrenergic receptor,P07700,I341L,2vt4:A_I341L,Membrane,Receptors,-,21907721,0.0,MPTM_1905,Training/CV,Fold 1
+Beta-1 adrenergic receptor,P07700,I209L,2vt4:A_I209L,Membrane,Receptors,-,21907721,3.9,MPTM_1892,Training/CV,Fold 1
+Beta-1 adrenergic receptor,P07700,I168L,2vt4:A_I168L,Membrane,Receptors,-,21907721,-0.6,MPTM_1889,Training/CV,Fold 1
+Beta-1 adrenergic receptor,P07700,I161L,2vt4:A_I161L,Aqueous,-,Exposed (helix and strand),21907721,-0.1,MPTM_1887,Training/CV,Fold 4
+Beta-1 adrenergic receptor,P07700,I137L,2vt4:A_I137L,Aqueous,-,Exposed (helix and strand),21907721,0.6,MPTM_1885,Training/CV,Fold 4
+Beta-1 adrenergic receptor,P07700,I129V,2vt4:A_I129V,Membrane,Receptors,-,21907721,2.15,MPTM_1909,Training/CV,Fold 1
+Beta-1 adrenergic receptor,P07700,F353C,2vt4:A_F353C,Membrane,Receptors,-,21907721,-3.5,MPTM_1862,Training/CV,Fold 1
+Beta-1 adrenergic receptor,P07700,F328L,2vt4:A_F328L,Membrane,Receptors,-,21907721,2.2,MPTM_1903,Training/CV,Fold 1
+Beta-1 adrenergic receptor,P07700,E41C,2vt4:A_E41C,Membrane,Receptors,-,21907721,-7.04,MPTM_1852,Training/CV,Fold 1
+Beta-1 adrenergic receptor,P07700,E285H,2vt4:A_E285H,Aqueous,-,Exposed (helix and strand),21907721,-2.6,MPTM_1930,Training/CV,Fold 4
+Beta-1 adrenergic receptor,P07700,E233L,2vt4:A_E233L,Aqueous,-,Exposed (helix and strand),21907721,1.1,MPTM_1895,Training/CV,Fold 4
+Beta-1 adrenergic receptor,P07700,E130L,2vt4:A_E130L,Membrane,Receptors,-,21907721,1.1,MPTM_1883,Training/CV,Fold 1
+Beta-1 adrenergic receptor,P07700,D87A,4bvn:A_D87A,Membrane,Receptors,-,24663151,-9.0,MPTM_432,Training/CV,Fold 1
+Beta-1 adrenergic receptor,P07700,D322R,2vt4:A_D322R,Aqueous,-,Exposed (helix and strand),21907721,4.0,MPTM_1872; MPTM_1878,Training/CV,Fold 4
+Beta-1 adrenergic receptor,P07700,D322K,2vt4:A_D322K,Aqueous,-,Exposed (helix and strand),21907721,4.85,MPTM_1877; MPTM_1871,Training/CV,Fold 4
+Beta-1 adrenergic receptor,P07700,D200E,2vt4:A_D200E,Membrane,Receptors,-,21907721,-1.1,MPTM_1870; MPTM_1876,Training/CV,Fold 1
+Beta-1 adrenergic receptor,P07700,C358A,2vt4:A_C358A,Aqueous,-,Coil,19297694,-2.0,MPTM_2030,Training/CV,Fold 9
+Beta-1 adrenergic receptor,P07700,C133L,2vt4:A_C133L,Membrane,Receptors,-,21907721,1.3,MPTM_1884,Training/CV,Fold 1
+Beta-1 adrenergic receptor,P07700,A99C,2vt4:A_A99C,Membrane,Receptors,-,21907721,-5.76,MPTM_1859,Training/CV,Fold 1
+Beta-1 adrenergic receptor,P07700,A86L,4bvn:A_A86L,Membrane,Receptors,-,24663151,-4.9,MPTM_431,Training/CV,Fold 1
+Beta-1 adrenergic receptor,P07700,A65C,2vt4:A_A65C,Aqueous,-,Buried (helix and strand),21907721,-4.71,MPTM_1857,Training/CV,Fold 10
+Beta-1 adrenergic receptor,P07700,A352C,2vt4:A_A352C,Membrane,Receptors,-,21907721,-5.79,MPTM_1861,Training/CV,Fold 1
+Beta-1 adrenergic receptor,P07700,A334L,2vt4:A_A334L,Membrane,Receptors,-,21907721,-4.8,MPTM_1921,Training/CV,Fold 1
+Beta-1 adrenergic receptor,P07700,A327L,4bvn:A_A327L,Membrane,Receptors,-,21907721,-0.3,MPTM_1902,Training/CV,Fold 1
+Beta-1 adrenergic receptor,P07700,A288H,2vt4:A_A288H,Aqueous,-,Exposed (helix and strand),21907721,1.5,MPTM_1932; MPTM_1942,Training/CV,Fold 4
+Beta-1 adrenergic receptor,P07700,A227Y,4bvn:A_A227Y,Membrane,Receptors,-,26840483,-4.0,MPTM_4842,Training/CV,Fold 1
+Beta-1 adrenergic receptor,P07700,A142H,2vt4:A_A142H,Aqueous,-,Buried (helix and strand),21907721,0.9,MPTM_1929,Training/CV,Fold 10
+Outer membrane porin C,P06996,D105G,2j1n:A_D84G,Aqueous,-,Coil,20932017,-5.44,MPTM_383,Training/CV,Fold 7
+Amyloid-beta precursor protein,P05067,F690D,1amb:A_F19D,Aqueous,-,Exposed (helix and strand),18840434,0.1,MPTM_26,Training/CV,Fold 10
+Envelope glycoprotein gp160,P04578,Q552E,1df4:A_Q7E,Aqueous,-,Exposed (helix and strand),26874586,-15.0,MPTM_4721,Training/CV,Fold 1
+Cytochrome b5 type B,P04166,L87S,1b5m:A_L71S,Aqueous,-,Buried (helix and strand),12269800,-10.2,MPTM_1245,Training/CV,Fold 10
+Cytochrome b5 type B,P04166,I48L,1b5m:A_I32L,Aqueous,-,Coil,11583146,-1.3,MPTM_5171,Training/CV,Fold 5
+Cytochrome b5 type B,P04166,I41L,1b5m:A_I25L,Aqueous,-,Buried (helix and strand),12269800,-0.8,MPTM_1243,Training/CV,Fold 10
+Envelope glycoprotein gp160,P03377,E565K,1env:A_E49K,Aqueous,-,Exposed (helix and strand),31796053,6.0,MPTM_7137,Training/CV,Fold 1
+Envelope glycoprotein gp160,P03377,E565G,1env:A_E49G,Aqueous,-,Exposed (helix and strand),31796053,-4.0,MPTM_7139,Training/CV,Fold 1
+Envelope glycoprotein gp160,P03377,E565D,1env:A_E49D,Aqueous,-,Exposed (helix and strand),31796053,-3.0,MPTM_7138,Training/CV,Fold 1
+Bacteriorhodopsin,P02945,Y198F,1py6:A_Y185F,Membrane,Transporters and others,-,20964279,-8.0,MPTM_6554,Training/CV,Fold 5
+Bacteriorhodopsin,P02945,T103A,1py6:A_T90A,Membrane,Transporters and others,-,20964279,-9.0,MPTM_6551,Training/CV,Fold 5
+Bacteriorhodopsin,P02945,R95H,1py6:A_R82H,Membrane,Transporters and others,-,20964279,1.0,MPTM_6548,Training/CV,Fold 5
+Bacteriorhodopsin,P02945,P63A,1pxr:A_P50A,Membrane,Transporters and others,-,18658225,-1.3,MPTM_622,Training/CV,Fold 5
+Bacteriorhodopsin,P02945,P199A,1q5i:A_P186A,Membrane,Transporters and others,-,18658225,1.8,MPTM_624,Training/CV,Fold 5
+Bacteriorhodopsin,P02945,P104A,1q5j:A_P91A,Membrane,Transporters and others,-,18658225,-2.7,MPTM_623,Training/CV,Fold 5
+Bacteriorhodopsin,P02945,K172Q,1py6:A_K159Q,Aqueous,-,Exposed (helix and strand),20964279,-5.0,MPTM_6553,Training/CV,Fold 5
+Bacteriorhodopsin,P02945,E87Q,1py6:A_E74Q,Aqueous,-,Exposed (helix and strand),11524418,-1.0,MPTM_6557,Training/CV,Fold 5
+Bacteriorhodopsin,P02945,E22Q,1py6:A_E9Q,Aqueous,-,Coil,20964279,-4.0,MPTM_6547,Training/CV,Fold 10
+Bacteriorhodopsin,P02945,E217Q,1py6:A_E204Q,Membrane,Transporters and others,-,11524418,-4.0,MPTM_6559,Training/CV,Fold 5
+Bacteriorhodopsin,P02945,E207Q,1py6:A_E194Q,Aqueous,-,Coil,11524418,-3.0,MPTM_6558,Training/CV,Fold 10
+Bacteriorhodopsin,P02945,D98T,1py6:A_D85T,Membrane,Transporters and others,-,11524418,-5.0,MPTM_6550,Training/CV,Fold 5
+Bacteriorhodopsin,P02945,D98N,1py6:A_D85N,Membrane,Transporters and others,-,20964279,-5.0,MPTM_6549,Training/CV,Fold 5
+Bacteriorhodopsin,P02945,D109N,1py6:A_D96N,Membrane,Transporters and others,-,20964279,-3.0,MPTM_6552,Training/CV,Fold 5
+Lactose permease,P02920,C154G,2cfq:A_C154G,Membrane,Transporters and others,-,31383935,-6.07,MPTM_6206,Training/CV,Fold 8
+Rhodopsin,P02699,S186A,1gzm:A_S186A,Aqueous,-,Buried (helix and strand),28595408,-10.2,MPTM_2219,Training/CV,Fold 10
+Rhodopsin,P02699,G90D,1f88:A_G90D,Membrane,Receptors,-,23579341,7.5,MPTM_419,Training/CV,Fold 4
+Rhodopsin,P02699,E181Q,1gzm:A_E181Q,Aqueous,-,Buried (helix and strand),28595408,-10.5,MPTM_2218,Training/CV,Fold 10
+T-cell surface glycoprotein CD4,P01730,V111L,1g9m:C_V86L,Aqueous,-,Buried (helix and strand),21827143,8.0,MPTM_4600,Training/CV,Fold 9
+T-cell surface glycoprotein CD4,P01730,G31A,1g9m:C_G6A,Aqueous,-,Buried (helix and strand),21827143,9.0,MPTM_4599,Training/CV,Fold 9
+Fumarate reductase flavoprotein subunit,P00363,H45S,3p4p:A_H44S,Aqueous,-,Exposed (helix and strand),28615448,1.6,MPTM_2213,Training/CV,Fold 7
+Fumarate reductase flavoprotein subunit,P00363,E246R,3p4p:A_E245R,Aqueous,-,Coil,28615448,2.1,MPTM_2214,Training/CV,Fold 8
+Fumarate reductase flavoprotein subunit,P00363,E246Q,3p4p:A_E245Q,Aqueous,-,Coil,28615448,1.8,MPTM_2212,Training/CV,Fold 8
+Fumarate reductase flavoprotein subunit,P00363,E246D,3p4p:A_E245D,Aqueous,-,Coil,28615448,1.6,MPTM_2215,Training/CV,Fold 8
+Cytochrome b5,P00173,P86A,1aw3:A_P81A,Aqueous,-,Exposed (helix and strand),15379561,-20.4,MPTM_1461,Training/CV,Fold 4
+Cytochrome b5,P00173,N62P,1aw3:A_N57P,Aqueous,-,Exposed (helix and strand),15379561,-1.6,MPTM_1460,Training/CV,Fold 4
+Cytochrome b5,P00173,D65R,1aw3:A_D60R,Aqueous,-,Exposed (helix and strand),15379561,0.8,MPTM_1462,Training/CV,Fold 4
+Cytochrome b5,P00171,V66Y,1cyo:A_V61Y,Aqueous,-,Coil,10508399,-4.7,MPTM_1118,Training/CV,Fold 5
+Cytochrome b5,P00171,V66K,1cyo:A_V61K,Aqueous,-,Coil,10508399,-8.7,MPTM_1120,Training/CV,Fold 5
+Cytochrome b5,P00171,V66H,1cyo:A_V61H,Aqueous,-,Coil,10508399,-5.9,MPTM_1119,Training/CV,Fold 5
+Cytochrome b5,P00171,V66E,1cyo:A_V61E,Aqueous,-,Coil,10508399,-4.0,MPTM_1117,Training/CV,Fold 5
+Cytochrome b5,P00171,F40Y,1cyo:A_F35Y,Aqueous,-,Coil,9215576,3.4,MPTM_1101,Training/CV,Fold 5
+Cytochrome b5,P00171,F40L,1cyo:A_F35L,Aqueous,-,Coil,9215576,-7.1,MPTM_1102,Training/CV,Fold 5
+Cytochrome b5,P00171,F40H,1cyo:A_F35H,Aqueous,-,Coil,9215576,-11.3,MPTM_1103,Training/CV,Fold 5
+Multidrug resistance-associated protein 6,O95255,R1339C,6bzr:B_R1339C,Aqueous,-,Exposed (helix and strand),27994049,-1.1,MPTM_2210,Training/CV,Fold 10
+Multidrug resistance-associated protein 6,O95255,R1314W,6bzr:B_R1314W,Aqueous,-,Coil,27994049,0.0,MPTM_2208,Training/CV,Fold 8
+Multidrug resistance-associated protein 6,O95255,L1335P,6bzr:B_L1335P,Aqueous,-,Exposed (helix and strand),27994049,-0.3,MPTM_2209,Training/CV,Fold 10
+Chloride intracellular channel protein 2,O15247,H101Q,2r4v:A_H101Q,Aqueous,-,Coil,22814392,2.8,MPTM_6811,Training/CV,Fold 4
+Free fatty acid receptor 1,O14842,Y122F,5tzr:A_Y122F,Aqueous,-,Exposed (helix and strand),25068810,3.7,MPTM_2020,Training/CV,Fold 9
+Free fatty acid receptor 1,O14842,R104A,5tzr:A_R104A,Aqueous,-,Buried (helix and strand),25068810,3.7,MPTM_2004; MPTM_2019,Training/CV,Fold 8
+Receptor-type tyrosine-protein phosphatase T,O14522,N1106I,2ooq:A_N1128I,Aqueous,-,Exposed (helix and strand),22389709,-2.0,MPTM_193,Training/CV,Fold 5
+Chloride intracellular channel protein 1,O00299,E228L,4iqa:A_E228L,Aqueous,-,Exposed (helix and strand),25209805,-11.0,MPTM_2,Training/CV,Fold 10
+Putative ferric reductase,K9WT99,H317R,5o0t:A_H317R,Aqueous,-,Exposed (helix and strand),28607049,-18.0,MPTM_2741,Training/CV,Fold 5
+Ryanodine receptor 2,E9Q401,R420Q,4l4i:A_R420Q,Aqueous,-,Exposed (helix and strand),23871484,-0.8,MPTM_457,Training/CV,Fold 9
+Ryanodine receptor 2,E9Q401,R176Q,4l4h:A_R176Q,Aqueous,-,Exposed (helix and strand),19913485,-2.84,MPTM_229,Training/CV,Fold 9
+Ryanodine receptor 2,E9Q401,P164S,4l4h:A_P164S,Aqueous,-,Buried (helix and strand),19913485,-2.4,MPTM_227,Training/CV,Fold 3
+Ryanodine receptor 2,E9Q401,A77V,3im7:A_A77V,Aqueous,-,Exposed (helix and strand),19913485,-0.67,MPTM_226,Training/CV,Fold 9
+Ryanodine receptor 2,E9Q401,A1107M,4p9l:A_A1107M,Aqueous,-,Buried (helix and strand),25370123,-8.8,MPTM_473,Training/CV,Fold 3
+Envelope glycoprotein gp160,E7CWP5,T586I,1qbz:A_T61I,Aqueous,-,Exposed (helix and strand),10651632,21.0,MPTM_1180,Training/CV,Fold 7
+Envelope glycoprotein gp160,E7CWP5,T582I,1qbz:A_T57I,Aqueous,-,Exposed (helix and strand),10651632,17.0,MPTM_1179,Training/CV,Fold 7
+Envelope glycoprotein gp160,E7CWP5,Q565I,1qbz:A_Q40I,Aqueous,-,Exposed (helix and strand),10651632,15.0,MPTM_1182,Training/CV,Fold 7
+DELTA-actitoxin-Afr1a,B9W5G6,V60R,4tsy:A_V60R,Aqueous,-,Coil,26096781,1.9,MPTM_442,Training/CV,Fold 10
+DELTA-actitoxin-Afr1a,B9W5G6,V60K,4tsy:A_V60K,Aqueous,-,Coil,26096781,1.6,MPTM_443,Training/CV,Fold 10
+DELTA-actitoxin-Afr1a,B9W5G6,V60F,4tsy:A_V60F,Aqueous,-,Coil,26096781,-1.9,MPTM_444,Training/CV,Fold 10
+DELTA-actitoxin-Afr1a,B9W5G6,V60E,4tsy:A_V60E,Aqueous,-,Coil,26096781,0.9,MPTM_441,Training/CV,Fold 10
+DELTA-actitoxin-Afr1a,B9W5G6,F16P,3vwi:A_F16P,Membrane,Transporters and others,-,25759390,-1.1,MPTM_4884,Training/CV,Fold 10
+CMP-sialic acid transporter 1,B4FZ94,Y82A,6i1r:A_Y82A,Membrane,Transporters and others,-,31133698,4.0,MPTM_4155,Training/CV,Fold 4
+CMP-sialic acid transporter 1,B4FZ94,Y199A,6i1r:A_Y199A,Membrane,Transporters and others,-,31133698,-1.4,MPTM_4158,Training/CV,Fold 4
+CMP-sialic acid transporter 1,B4FZ94,W209A,6i1r:A_W209A,Membrane,Transporters and others,-,31133698,0.2,MPTM_4162,Training/CV,Fold 4
+CMP-sialic acid transporter 1,B4FZ94,S79A,6i1r:A_S79A,Membrane,Transporters and others,-,31133698,1.9,MPTM_4154,Training/CV,Fold 4
+CMP-sialic acid transporter 1,B4FZ94,S267A,6i1r:A_S267A,Membrane,Transporters and others,-,31133698,2.1,MPTM_4163,Training/CV,Fold 4
+CMP-sialic acid transporter 1,B4FZ94,N86A,6i1r:A_N86A,Membrane,Transporters and others,-,31133698,3.3,MPTM_4156,Training/CV,Fold 4
+CMP-sialic acid transporter 1,B4FZ94,N206A,6i1r:A_N206A,Membrane,Transporters and others,-,31133698,-2.5,MPTM_4161,Training/CV,Fold 4
+CMP-sialic acid transporter 1,B4FZ94,N106A,6i1r:A_N106A,Membrane,Transporters and others,-,31133698,0.0,MPTM_4160,Training/CV,Fold 4
+CMP-sialic acid transporter 1,B4FZ94,K45A,6i1r:A_K45A,Membrane,Transporters and others,-,31133698,-1.8,MPTM_4153,Training/CV,Fold 4
+CMP-sialic acid transporter 1,B4FZ94,K262A,6i1r:A_K262A,Membrane,Transporters and others,-,31133698,-1.0,MPTM_4159,Training/CV,Fold 4
+CMP-sialic acid transporter 1,B4FZ94,K108A,6i1r:A_K108A,Membrane,Transporters and others,-,31133698,-1.2,MPTM_4157,Training/CV,Fold 4
+CMP-sialic acid transporter 1,B4FZ94,E42A,6i1r:A_E42A,Membrane,Transporters and others,-,31133698,-0.1,MPTM_4152,Training/CV,Fold 4
+Major facilitator superfamily MFS_1,A0A140NCX4,R77E,3wdo:A_R77E,Aqueous,-,Coil,23950222,-6.3,MPTM_588,Training/CV,Fold 5
+Major facilitator superfamily MFS_1,A0A140NCX4,L425A,4q2l:A_L38A,Aqueous,-,Exposed (helix and strand),24952155,-6.8,MPTM_579,Training/CV,Fold 6
+Major facilitator superfamily MFS_1,A0A140NCX4,G69W,3wdo:A_G69W,Membrane,Transporters and others,-,23950222,-23.1,MPTM_586,Training/CV,Fold 10
+Major facilitator superfamily MFS_1,A0A140NCX4,G51W,3wdo:A_G51W,Aqueous,-,Exposed (helix and strand),23950222,-3.5,MPTM_585,Training/CV,Fold 6
+Major facilitator superfamily MFS_1,A0A140NCX4,D73R,3wdo:A_D73R,Aqueous,-,Buried (helix and strand),23950222,-20.0,MPTM_587,Training/CV,Fold 7
+Major facilitator superfamily MFS_1,A0A140NCX4,D126R,3wdo:A_D126R,Aqueous,-,Exposed (helix and strand),23950222,-13.0,MPTM_589,Training/CV,Fold 6
