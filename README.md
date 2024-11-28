@@ -1,0 +1,47 @@
+# PON-Tm
+## 目录解释
+
+- **Dataset** *数据处理目录*  
+  - **BasicData**   *基本数据集*  
+    - **excllent_ProThermDB_Testing4Comparison.csv** *其他工作在盲测集上的测试效果*  
+    - **InitializationDataset**   *原始数据集*  
+    - **MPTherm-pred**    *MPTherm-pred训练集(无pHTm条件)*  
+    - **MPTherm-TestSet** *MPTherm-pred测试集(无pHTm条件)*  
+    - **PonDB**   *本文构造数据集PonDB*  
+      - **Common** (无pHTm条件)  
+      - **pH-Tm**  
+      - **Tm**  
+    - **ProThermDB**  *ProThermDB数据集*  
+      - **Common** (无pHTm条件)  
+      - **pH-Tm**  
+      - **Tm**  
+  - **Process4Dataset**  *数据清洗与特征提取工具*  
+    - **feature_extractor**  *特征提取工具目录*  <br> *文件夹为工具包，XXGetter.py文件中提供处理函数*
+      - **aaindex**
+      - **hydrop**
+      - **IDConvert**
+      - **protparam**
+      - **protr**
+      - **pssm**
+      - **sift4g**
+      - **aaindexGetter.py**
+      - **embeddingGetter.py**
+      - **groupGetter.py**
+      - **hydropGetter.py**
+      - **neighborGetter.py**
+      - **paramGetter.py**
+      - **protrGetter.py**
+      - **pssmGetter.py**
+      - **siftGetter.py**
+      - **swisspssmGetter.py**
+    - **initializor4PonDT.py**  *数据清洗+初始化工具包*
+    - **DatasetCeator4PonDT.py**  *提供本文数据集包装类Dataset4MutTm*
+  - **DataAnalysis4MultMutation.ipynb**  *多突变数据分析*
+  - **OthersAquire.ipynb**  *其他工作盲测集数据获取*
+  - **ThermalAnalysis.ipynb** *Tm分数据分析*
+  - **with-nothing.ipynb** *不考虑pHTm条件的数据分析*
+  - **with-Tm.ipynb**
+  - **with-Tm-pH.ipynb**
+- **MachineLearning**  *机器学习方法*
+- **[Droped]DeepLearning** *深度学习方法（弃用）*
+- **ModelSave** *机器学习模型保存*
