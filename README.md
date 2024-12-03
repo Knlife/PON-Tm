@@ -18,7 +18,7 @@ docker run -tid -p8088:8000 --name PON-Tm --privileged=true jiejueerqun/pontm /u
 Contact me at **pluskuang@163.com**.
 
 ***
-**If you use the code in this repository, please cite.**
+**If you use the code in this repository, please cite.**  
 Kuang, J., Zhao, Z., Yang, Y., & Yan, W. (2024). PON-Tm: A Sequence-Based Method for Prediction of
 Missense Mutation Effects on Protein Thermal Stability Changes. International journal of molecular
 sciences, 25(15), 8379. https://doi.org/10.3390/ijms25158379  
