@@ -1,47 +1,24 @@
-# PON-Tm
-## 目录解释
+The Chinese version of README.md is [here](README-Chinese.md).  
+## How to use PON-Tm
+You can use this service directly at https://www.yanglab-mi.org.cn/Pon-Tm/.  
+Alternatively, you can use the Docker version of this service, which uses Uniref50 as the
+background database for calculating PSSM and a larger PLM for processing protein sequences.
+This is also the service version used to obtain the results in the paper. You can follow the 
+following process to deploy the docker service. 
+### 1. pull the image from dockerhub
+```shell
+docker pull jiejueerqun/pontm
+```
+### 2.run the image
+```shell
+docker run -tid -p8088:8000 --name PON-Tm --privileged=true jiejueerqun/pontm /usr/sbin/init
+```
+### 3.[Get the service in your browser](0.0.0.0:8088)
+**If you use the code in this repository, please cite.**
+## Further problems
+Contact me at **pluskuang@163.com**.
 
-- **Dataset** *数据处理目录*  
-  - **BasicData**   *基本数据集*  
-    - **excllent_ProThermDB_Testing4Comparison.csv** *其他工作在盲测集上的测试效果*  
-    - **InitializationDataset**   *原始数据集*  
-    - **MPTherm-pred**    *MPTherm-pred训练集(无pHTm条件)*  
-    - **MPTherm-TestSet** *MPTherm-pred测试集(无pHTm条件)*  
-    - **PonDB**   *本文构造数据集PonDB*  
-      - **Common** (无pHTm条件)  
-      - **pH-Tm**  
-      - **Tm**  
-    - **ProThermDB**  *ProThermDB数据集*  
-      - **Common** (无pHTm条件)  
-      - **pH-Tm**  
-      - **Tm**  
-  - **Process4Dataset**  *数据清洗与特征提取工具*  
-    - **feature_extractor**  *特征提取工具目录*  <br> *文件夹为工具包，XXGetter.py文件中提供处理函数*
-      - **aaindex**
-      - **hydrop**
-      - **IDConvert**
-      - **protparam**
-      - **protr**
-      - **pssm**
-      - **sift4g**
-      - **aaindexGetter.py**
-      - **embeddingGetter.py**
-      - **groupGetter.py**
-      - **hydropGetter.py**
-      - **neighborGetter.py**
-      - **paramGetter.py**
-      - **protrGetter.py**
-      - **pssmGetter.py**
-      - **siftGetter.py**
-      - **swisspssmGetter.py**
-    - **initializor4PonDT.py**  *数据清洗+初始化工具包*
-    - **DatasetCeator4PonDT.py**  *提供本文数据集包装类Dataset4MutTm*
-  - **DataAnalysis4MultMutation.ipynb**  *多突变数据分析*
-  - **OthersAquire.ipynb**  *其他工作盲测集数据获取*
-  - **ThermalAnalysis.ipynb** *Tm分数据分析*
-  - **with-nothing.ipynb** *不考虑pHTm条件的数据分析*
-  - **with-Tm.ipynb**
-  - **with-Tm-pH.ipynb**
-- **MachineLearning**  *机器学习方法*
-- **[Droped]DeepLearning** *深度学习方法（弃用）*
-- **ModelSave** *机器学习模型保存*
+***
+Kuang, J., Zhao, Z., Yang, Y., & Yan, W. (2024). PON-Tm: A Sequence-Based Method for Prediction of
+Missense Mutation Effects on Protein Thermal Stability Changes. International journal of molecular
+sciences, 25(15), 8379. https://doi.org/10.3390/ijms25158379  
